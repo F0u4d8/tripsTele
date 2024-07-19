@@ -1,0 +1,11 @@
+python-telegram-bot==20.0
+selenium==4.8.0
+selenium-wire==5.0.0
+requests==2.31.0
+pandas==1.5.3
+fuzzywuzzy==0.18.0
+python-Levenshtein==0.12.2
+logging
+urllib3
+calendar
+python-dateutil
