@@ -1,0 +1,1996 @@
+{"full":[
+    {
+      "name": "Albanien",
+      "code": "AL",
+      "destinations": [
+        {
+          "name": "Tirana",
+          "code": "TIA",
+          "alias": [
+            "tirana",
+            "tia",
+            "albanien"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Belgien",
+      "code": "BE",
+      "destinations": [
+        {
+          "name": "Bryssel",
+          "code": "BRU",
+          "alias": [
+            "bryssel",
+            "bru",
+            "belgien"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Bulgarien",
+      "code": "BG",
+      "destinations": [
+        {
+          "name": "Burgas",
+          "code": "BOJ",
+          "alias": [
+            "burgas",
+            "boj",
+            "bulgarien"
+          ]
+        },
+        {
+          "name": "Sofia",
+          "code": "SOF",
+          "alias": [
+            "sofia",
+            "sof",
+            "bulgarien"
+          ]
+        },
+        {
+          "name": "Varna",
+          "code": "VAR",
+          "alias": [
+            "varna",
+            "var",
+            "bulgarien"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Cypern",
+      "code": "CY",
+      "destinations": [
+        {
+          "name": "Larnaca",
+          "code": "LCA",
+          "alias": [
+            "larnaca",
+            "lca",
+            "cypern",
+            "ayia napa",
+            "protaras",
+            "fig tree bay",
+            "larnaca"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Danmark",
+      "code": "DK",
+      "destinations": [
+        {
+          "name": "Aalborg",
+          "code": "AAL",
+          "alias": [
+            "aalborg",
+            "aal",
+            "danmark"
+          ]
+        },
+        {
+          "name": "Billund",
+          "code": "BLL",
+          "alias": [
+            "billund",
+            "bll",
+            "danmark"
+          ]
+        },
+        {
+          "name": "Köpenhamn",
+          "code": "CPH",
+          "alias": [
+            "köpenhamn",
+            "cph",
+            "danmark"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Egypten",
+      "code": "EG",
+      "destinations": [
+        {
+          "name": "Cairo",
+          "code": "CAI",
+          "alias": [
+            "cairo",
+            "cai",
+            "egypten"
+          ]
+        },
+        {
+          "name": "Hurghada",
+          "code": "HRG",
+          "alias": [
+            "hurghada",
+            "hrg",
+            "egypten"
+          ]
+        },
+        {
+          "name": "Sharm El Sheikh",
+          "code": "SSH",
+          "alias": [
+            "sharm el sheikh",
+            "ssh",
+            "egypten"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Estland",
+      "code": "EE",
+      "destinations": [
+        {
+          "name": "Tallinn",
+          "code": "TLL",
+          "alias": [
+            "tallinn",
+            "tll",
+            "estland"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Finland",
+      "code": "FI",
+      "destinations": [
+        {
+          "name": "Helsingfors",
+          "code": "HEL",
+          "alias": [
+            "helsingfors",
+            "hel",
+            "finland"
+          ]
+        },
+        {
+          "name": "Åbo",
+          "code": "TKU",
+          "alias": [
+            "Åbo",
+            "tku",
+            "finland"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Frankrike",
+      "code": "FR",
+      "destinations": [
+        {
+          "name": "Bordeaux",
+          "code": "BOD",
+          "alias": [
+            "bordeaux",
+            "bod",
+            "frankrike"
+          ]
+        },
+        {
+          "name": "Korsika",
+          "code": "BIA",
+          "alias": [
+            "korsika",
+            "bia",
+            "frankrike"
+          ]
+        },
+        {
+          "name": "Lyon",
+          "code": "LYS",
+          "alias": [
+            "lyon",
+            "lys",
+            "frankrike"
+          ]
+        },
+        {
+          "name": "Marseille",
+          "code": "MRS",
+          "alias": [
+            "marseille",
+            "mrs",
+            "frankrike"
+          ]
+        },
+        {
+          "name": "Montpellier",
+          "code": "MPL",
+          "alias": [
+            "montpellier",
+            "mpl",
+            "frankrike"
+          ]
+        },
+        {
+          "name": "Nice",
+          "code": "NCE",
+          "alias": [
+            "nice",
+            "nce",
+            "frankrike"
+          ]
+        },
+        {
+          "name": "Paris",
+          "code": "PAR",
+          "alias": [
+            "paris",
+            "par",
+            "frankrike"
+          ]
+        },
+        {
+          "name": "Toulouse",
+          "code": "TLS",
+          "alias": [
+            "toulouse",
+            "tls",
+            "frankrike"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Förenade Arabemiraten",
+      "code": "AE",
+      "destinations": [
+        {
+          "name": "Abu Dhabi",
+          "code": "AUH",
+          "alias": [
+            "abu dhabi",
+            "auh",
+            "förenade arabemiraten"
+          ]
+        },
+        {
+          "name": "Dubai",
+          "code": "DXB",
+          "alias": [
+            "dubai",
+            "dxb",
+            "förenade arabemiraten",
+            "dubai",
+            "ras al khaima",
+            "abu dhabi",
+            "jumeirah",
+            "fujairah"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Georgien",
+      "code": "GE",
+      "destinations": [
+        {
+          "name": "Kutaisi",
+          "code": "KUT",
+          "alias": [
+            "kutaisi",
+            "kut",
+            "georgien"
+          ]
+        },
+        {
+          "name": "Tbilisi",
+          "code": "TBS",
+          "alias": [
+            "tbilisi",
+            "tbs",
+            "georgien"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Grekland",
+      "code": "GR",
+      "destinations": [
+        {
+          "name": "Aten",
+          "code": "ATH",
+          "alias": [
+            "aten",
+            "ath",
+            "grekland"
+          ]
+        },
+        {
+          "name": "Chania (Kreta)",
+          "code": "CHQ",
+          "alias": [
+            "chania (kreta)",
+            "chq",
+            "grekland",
+            "chania",
+            "agii apostoli",
+            "platanias",
+            "maleme",
+            "gerani",
+            "kolymbari",
+            "stalos",
+            "agia marina"
+          ]
+        },
+        {
+          "name": "Heraklion (Kreta)",
+          "code": "HER",
+          "alias": [
+            "heraklion (kreta)",
+            "her",
+            "grekland"
+          ]
+        },
+        {
+          "name": "Korfu",
+          "code": "CFU",
+          "alias": [
+            "korfu",
+            "cfu",
+            "grekland"
+          ]
+        },
+        {
+          "name": "Lefkas",
+          "code": "PVK",
+          "alias": [
+            "lefkas",
+            "pvk",
+            "grekland"
+          ]
+        },
+        {
+          "name": "Mykonos",
+          "code": "JMK",
+          "alias": [
+            "mykonos",
+            "jmk",
+            "grekland"
+          ]
+        },
+        {
+          "name": "Rhodos",
+          "code": "RHO",
+          "alias": [
+            "rhodos",
+            "rho",
+            "grekland",
+            "ixia",
+            "faliraki",
+            "ialyssos",
+            "kallithea",
+            "kolymbia"
+          ]
+        },
+        {
+          "name": "Santorini",
+          "code": "JTR",
+          "alias": [
+            "santorini",
+            "jtr",
+            "grekland"
+          ]
+        },
+        {
+          "name": "Thessaloniki",
+          "code": "SKG",
+          "alias": [
+            "thessaloniki",
+            "skg",
+            "grekland"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Irland",
+      "code": "IE",
+      "destinations": [
+        {
+          "name": "Dublin",
+          "code": "DUB",
+          "alias": [
+            "dublin",
+            "dub",
+            "irland"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Island",
+      "code": "IS",
+      "destinations": [
+        {
+          "name": "Reykjavik",
+          "code": "REK",
+          "alias": [
+            "reykjavik",
+            "rek",
+            "island"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Italien",
+      "code": "IT",
+      "destinations": [
+        {
+          "name": "Amalfikusten",
+          "code": "AMF",
+          "alias": [
+            "amalfikusten",
+            "amf",
+            "italien"
+          ]
+        },
+        {
+          "name": "Bari",
+          "code": "BRI",
+          "alias": [
+            "bari",
+            "bri",
+            "italien"
+          ]
+        },
+        {
+          "name": "Bologna",
+          "code": "BLQ",
+          "alias": [
+            "bologna",
+            "blq",
+            "italien"
+          ]
+        },
+        {
+          "name": "Catania (Sicilien)",
+          "code": "CTA",
+          "alias": [
+            "catania (sicilien)",
+            "cta",
+            "italien"
+          ]
+        },
+        {
+          "name": "Florens",
+          "code": "FLR",
+          "alias": [
+            "florens",
+            "flr",
+            "italien"
+          ]
+        },
+        {
+          "name": "Milano",
+          "code": "MIL",
+          "alias": [
+            "milano",
+            "mil",
+            "italien"
+          ]
+        },
+        {
+          "name": "Neapel",
+          "code": "NAP",
+          "alias": [
+            "neapel",
+            "nap",
+            "italien"
+          ]
+        },
+        {
+          "name": "Palermo (Sicilien)",
+          "code": "PMO",
+          "alias": [
+            "palermo (sicilien)",
+            "pmo",
+            "italien"
+          ]
+        },
+        {
+          "name": "Pisa",
+          "code": "PSA",
+          "alias": [
+            "pisa",
+            "psa",
+            "italien"
+          ]
+        },
+        {
+          "name": "Rimini",
+          "code": "RMI",
+          "alias": [
+            "rimini",
+            "rmi",
+            "italien"
+          ]
+        },
+        {
+          "name": "Rom",
+          "code": "ROM",
+          "alias": [
+            "rom",
+            "rom",
+            "italien"
+          ]
+        },
+        {
+          "name": "Sardinien",
+          "code": "OLB",
+          "alias": [
+            "sardinien",
+            "olb",
+            "italien"
+          ]
+        },
+        {
+          "name": "Venedig",
+          "code": "VCE",
+          "alias": [
+            "venedig",
+            "vce",
+            "italien"
+          ]
+        },
+        {
+          "name": "Verona",
+          "code": "VRN",
+          "alias": [
+            "verona",
+            "vrn",
+            "italien"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Kroatien",
+      "code": "HR",
+      "destinations": [
+        {
+          "name": "Dubrovnik",
+          "code": "DBV",
+          "alias": [
+            "dubrovnik",
+            "dbv",
+            "kroatien"
+          ]
+        },
+        {
+          "name": "Pula - Istria",
+          "code": "PUY",
+          "alias": [
+            "pula - istria",
+            "puy",
+            "kroatien"
+          ]
+        },
+        {
+          "name": "Split-regionen",
+          "code": "SPU",
+          "alias": [
+            "split-regionen",
+            "spu",
+            "kroatien"
+          ]
+        },
+        {
+          "name": "Zadar",
+          "code": "ZAD",
+          "alias": [
+            "zadar",
+            "zad",
+            "kroatien"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Lettland",
+      "code": "LV",
+      "destinations": [
+        {
+          "name": "Riga",
+          "code": "RIX",
+          "alias": [
+            "riga",
+            "rix",
+            "lettland"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Litauen",
+      "code": "LT",
+      "destinations": [
+        {
+          "name": "Kaunas",
+          "code": "KUN",
+          "alias": [
+            "kaunas",
+            "kun",
+            "litauen"
+          ]
+        },
+        {
+          "name": "Palanga/Klaipedia",
+          "code": "PLQ",
+          "alias": [
+            "palanga/klaipedia",
+            "plq",
+            "litauen"
+          ]
+        },
+        {
+          "name": "Vilnius",
+          "code": "VNO",
+          "alias": [
+            "vilnius",
+            "vno",
+            "litauen"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Malta",
+      "code": "MT",
+      "destinations": [
+        {
+          "name": "Gozo",
+          "code": "GZO",
+          "alias": [
+            "gozo",
+            "gzo",
+            "malta"
+          ]
+        },
+        {
+          "name": "Malta",
+          "code": "MLA",
+          "alias": [
+            "malta",
+            "mla",
+            "malta",
+            "gozo",
+            "st.julian",
+            "paceville",
+            "bugibba",
+            "valletta",
+            "sliema",
+            "mellieha"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Marocko",
+      "code": "MA",
+      "destinations": [
+        {
+          "name": "Agadir",
+          "code": "AGA",
+          "alias": [
+            "agadir",
+            "aga",
+            "marocko"
+          ]
+        },
+        {
+          "name": "Marrakech",
+          "code": "RAK",
+          "alias": [
+            "marrakech",
+            "rak",
+            "marocko"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Montenegro",
+      "code": "ME",
+      "destinations": [
+        {
+          "name": "Tivat",
+          "code": "TIV",
+          "alias": [
+            "tivat",
+            "tiv",
+            "montenegro"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Nederländerna",
+      "code": "NL",
+      "destinations": [
+        {
+          "name": "Amsterdam",
+          "code": "AMS",
+          "alias": [
+            "amsterdam",
+            "ams",
+            "nederländerna"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Nordmakedonien",
+      "code": "MK",
+      "destinations": [
+        {
+          "name": "Skopje",
+          "code": "SKP",
+          "alias": [
+            "skopje",
+            "skp",
+            "nordmakedonien"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Norge",
+      "code": "NO",
+      "destinations": [
+        {
+          "name": "Bergen",
+          "code": "BGO",
+          "alias": [
+            "bergen",
+            "bgo",
+            "norge"
+          ]
+        },
+        {
+          "name": "Longyearbyen - Svalbard",
+          "code": "LYR",
+          "alias": [
+            "longyearbyen - svalbard",
+            "lyr",
+            "norge"
+          ]
+        },
+        {
+          "name": "Oslo",
+          "code": "OSL",
+          "alias": [
+            "oslo",
+            "osl",
+            "norge"
+          ]
+        },
+        {
+          "name": "Stavanger",
+          "code": "SVG",
+          "alias": [
+            "stavanger",
+            "svg",
+            "norge"
+          ]
+        },
+        {
+          "name": "Tromsö",
+          "code": "TOS",
+          "alias": [
+            "tromsö",
+            "tos",
+            "norge"
+          ]
+        },
+        {
+          "name": "Trondheim",
+          "code": "TRD",
+          "alias": [
+            "trondheim",
+            "trd",
+            "norge"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Polen",
+      "code": "PL",
+      "destinations": [
+        {
+          "name": "Gdansk",
+          "code": "GDN",
+          "alias": [
+            "gdansk",
+            "gdn",
+            "polen"
+          ]
+        },
+        {
+          "name": "Krakow",
+          "code": "KRK",
+          "alias": [
+            "krakow",
+            "krk",
+            "polen"
+          ]
+        },
+        {
+          "name": "Poznan",
+          "code": "POZ",
+          "alias": [
+            "poznan",
+            "poz",
+            "polen"
+          ]
+        },
+        {
+          "name": "Warszawa",
+          "code": "WAW",
+          "alias": [
+            "warszawa",
+            "waw",
+            "polen"
+          ]
+        },
+        {
+          "name": "Wroclaw",
+          "code": "WRO",
+          "alias": [
+            "wroclaw",
+            "wro",
+            "polen"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Portugal",
+      "code": "PT",
+      "destinations": [
+        {
+          "name": "Algarve",
+          "code": "FAO",
+          "alias": [
+            "algarve",
+            "fao",
+            "portugal"
+          ]
+        },
+        {
+          "name": "Lissabon",
+          "code": "LIS",
+          "alias": [
+            "lissabon",
+            "lis",
+            "portugal"
+          ]
+        },
+        {
+          "name": "Madeira",
+          "code": "FNC",
+          "alias": [
+            "madeira",
+            "fnc",
+            "portugal"
+          ]
+        },
+        {
+          "name": "Porto",
+          "code": "OPO",
+          "alias": [
+            "porto",
+            "opo",
+            "portugal"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Qatar",
+      "code": "QA",
+      "destinations": [
+        {
+          "name": "Qatar",
+          "code": "DOH",
+          "alias": [
+            "qatar",
+            "doh",
+            "qatar"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Rumänien",
+      "code": "RO",
+      "destinations": [
+        {
+          "name": "Bukarest",
+          "code": "OTP",
+          "alias": [
+            "bukarest",
+            "otp",
+            "rumänien"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Schweiz",
+      "code": "CH",
+      "destinations": [
+        {
+          "name": "Basel-Mullhouse",
+          "code": "BSL",
+          "alias": [
+            "basel-mullhouse",
+            "bsl",
+            "schweiz"
+          ]
+        },
+        {
+          "name": "Genève",
+          "code": "GVA",
+          "alias": [
+            "genève",
+            "gva",
+            "schweiz"
+          ]
+        },
+        {
+          "name": "Zürich",
+          "code": "ZRH",
+          "alias": [
+            "zürich",
+            "zrh",
+            "schweiz"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Serbien",
+      "code": "RS",
+      "destinations": [
+        {
+          "name": "Belgrad",
+          "code": "BEG",
+          "alias": [
+            "belgrad",
+            "beg",
+            "serbien"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Slovenien",
+      "code": "SI",
+      "destinations": [
+        {
+          "name": "Ljubljana",
+          "code": "LJU",
+          "alias": [
+            "ljubljana",
+            "lju",
+            "slovenien"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Spanien",
+      "code": "ES",
+      "destinations": [
+        {
+          "name": "Barcelona",
+          "code": "BCN",
+          "alias": [
+            "barcelona",
+            "bcn",
+            "spanien"
+          ]
+        },
+        {
+          "name": "Bilbao",
+          "code": "BIO",
+          "alias": [
+            "bilbao",
+            "bio",
+            "spanien"
+          ]
+        },
+        {
+          "name": "Costa Blanca",
+          "code": "ALC",
+          "alias": [
+            "costa blanca",
+            "alc",
+            "spanien",
+            "alicante",
+            "benidorm"
+          ]
+        },
+        {
+          "name": "Costa Brava",
+          "code": "GRO",
+          "alias": [
+            "costa brava",
+            "gro",
+            "spanien"
+          ]
+        },
+        {
+          "name": "Costa Dorada",
+          "code": "SIT",
+          "alias": [
+            "costa dorada",
+            "sit",
+            "spanien"
+          ]
+        },
+        {
+          "name": "Costa del Sol",
+          "code": "AGP",
+          "alias": [
+            "costa del sol",
+            "agp",
+            "spanien",
+            "malaga",
+            "marbella",
+            "torremolinos",
+            "benalmadena",
+            "fuengirola",
+            "marbella"
+          ]
+        },
+        {
+          "name": "Gran Canaria",
+          "code": "LPA",
+          "alias": [
+            "gran canaria",
+            "lpa",
+            "spanien",
+            "playa del ingles",
+            "puerto rico",
+            "las palmas",
+            "taurito",
+            "mogan",
+            "kanarieöarna"
+          ]
+        },
+        {
+          "name": "Lanzarote",
+          "code": "ACE",
+          "alias": [
+            "lanzarote",
+            "ace",
+            "spanien",
+            "kanarieöarna"
+          ]
+        },
+        {
+          "name": "Madrid",
+          "code": "MAD",
+          "alias": [
+            "madrid",
+            "mad",
+            "spanien"
+          ]
+        },
+        {
+          "name": "Mallorca",
+          "code": "PMI",
+          "alias": [
+            "mallorca",
+            "pmi",
+            "spanien",
+            "alcudia",
+            "palma de mallorca",
+            "magaluf",
+            "cala mayor",
+            "playa de palma",
+            "portal nous",
+            "playa de muro",
+            "palma nova",
+            " can picanfort",
+            " capdepera",
+            "santa ponsa",
+            "son caliu",
+            " cala d or"
+          ]
+        },
+        {
+          "name": "Teneriffa",
+          "code": "TFS",
+          "alias": [
+            "teneriffa",
+            "tfs",
+            "spanien",
+            "playa de las americas",
+            "adjeje",
+            "los christianos",
+            "los gigantes",
+            "kanarieöarna"
+          ]
+        },
+        {
+          "name": "Valencia",
+          "code": "VLC",
+          "alias": [
+            "valencia",
+            "vlc",
+            "spanien"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Storbritannien",
+      "code": "UK",
+      "destinations": [
+        {
+          "name": "Birmingham",
+          "code": "BHX",
+          "alias": [
+            "birmingham",
+            "bhx",
+            "storbritannien"
+          ]
+        },
+        {
+          "name": "Edinburgh",
+          "code": "EDI",
+          "alias": [
+            "edinburgh",
+            "edi",
+            "storbritannien"
+          ]
+        },
+        {
+          "name": "Liverpool",
+          "code": "LPL",
+          "alias": [
+            "liverpool",
+            "lpl",
+            "storbritannien"
+          ]
+        },
+        {
+          "name": "London",
+          "code": "LON",
+          "alias": [
+            "london",
+            "lon",
+            "storbritannien"
+          ]
+        },
+        {
+          "name": "Manchester",
+          "code": "MAN",
+          "alias": [
+            "manchester",
+            "man",
+            "storbritannien"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Sverige",
+      "code": "SE",
+      "destinations": [
+        {
+          "name": "Göteborg",
+          "code": "GOT",
+          "alias": [
+            "göteborg",
+            "got",
+            "sverige"
+          ]
+        },
+        {
+          "name": "Luleå",
+          "code": "LLA",
+          "alias": [
+            "luleå",
+            "lla",
+            "sverige"
+          ]
+        },
+        {
+          "name": "Malmö",
+          "code": "MMX",
+          "alias": [
+            "malmö",
+            "mmx",
+            "sverige"
+          ]
+        },
+        {
+          "name": "Stockholm",
+          "code": "STO",
+          "alias": [
+            "stockholm",
+            "sto",
+            "sverige"
+          ]
+        },
+        {
+          "name": "Umeå",
+          "code": "UME",
+          "alias": [
+            "umeå",
+            "ume",
+            "sverige"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Thailand",
+      "code": "TH",
+      "destinations": [
+        {
+          "name": "Bangkok",
+          "code": "BKK",
+          "alias": [
+            "bangkok",
+            "bkk",
+            "thailand"
+          ]
+        },
+        {
+          "name": "Södra Thailand",
+          "code": "HKT",
+          "alias": [
+            "södra thailand",
+            "hkt",
+            "thailand",
+            "phuket",
+            "khao lak",
+            " karon beach",
+            "kata beach",
+            "patong",
+            " kamala",
+            "bangtao"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Tjeckien",
+      "code": "CZ",
+      "destinations": [
+        {
+          "name": "Prag",
+          "code": "PRG",
+          "alias": [
+            "prag",
+            "prg",
+            "tjeckien"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Turkiet",
+      "code": "TR",
+      "destinations": [
+        {
+          "name": "Bodrum",
+          "code": "BJV",
+          "alias": [
+            "bodrum",
+            "bjv",
+            "turkiet"
+          ]
+        },
+        {
+          "name": "Istanbul",
+          "code": "IST",
+          "alias": [
+            "istanbul",
+            "ist",
+            "turkiet"
+          ]
+        },
+        {
+          "name": "Norra Cypern",
+          "code": "ECN",
+          "alias": [
+            "norra cypern",
+            "ecn",
+            "turkiet"
+          ]
+        },
+        {
+          "name": "Södra Turkiet",
+          "code": "AYT",
+          "alias": [
+            "södra turkiet",
+            "ayt",
+            "turkiet",
+            "alanya",
+            "side",
+            "belek",
+            "kemer",
+            "antalya"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Tyskland",
+      "code": "DE",
+      "destinations": [
+        {
+          "name": "Berlin",
+          "code": "BER",
+          "alias": [
+            "berlin",
+            "ber",
+            "tyskland"
+          ]
+        },
+        {
+          "name": "Düsseldorf",
+          "code": "DUS",
+          "alias": [
+            "düsseldorf",
+            "dus",
+            "tyskland"
+          ]
+        },
+        {
+          "name": "Frankfurt",
+          "code": "FRA",
+          "alias": [
+            "frankfurt",
+            "fra",
+            "tyskland"
+          ]
+        },
+        {
+          "name": "Hamburg",
+          "code": "HAM",
+          "alias": [
+            "hamburg",
+            "ham",
+            "tyskland"
+          ]
+        },
+        {
+          "name": "München",
+          "code": "MUC",
+          "alias": [
+            "münchen",
+            "muc",
+            "tyskland"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "USA",
+      "code": "US",
+      "destinations": [
+        {
+          "name": "Fort Lauderdale",
+          "code": "FLL",
+          "alias": [
+            "fort lauderdale",
+            "fll",
+            "usa"
+          ]
+        },
+        {
+          "name": "Miami",
+          "code": "MIA",
+          "alias": [
+            "miami",
+            "mia",
+            "usa"
+          ]
+        },
+        {
+          "name": "New York",
+          "code": "NYC",
+          "alias": [
+            "new york",
+            "nyc",
+            "usa"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Ungern",
+      "code": "HU",
+      "destinations": [
+        {
+          "name": "Budapest",
+          "code": "BUD",
+          "alias": [
+            "budapest",
+            "bud",
+            "ungern"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Österrike",
+      "code": "AT",
+      "destinations": [
+        {
+          "name": "Wien",
+          "code": "VIE",
+          "alias": [
+            "wien",
+            "vie",
+            "Österrike"
+          ]
+        }
+      ]
+    }
+  ],
+
+"depart":[
+    {
+      "code": "STO",
+      "name": "Stockholm (Alla flygplatser)",
+      "enabled": [
+        "PMI",
+        "BCN",
+        "AGP",
+        "LON",
+        "DXB",
+        "ROM",
+        "LPA",
+        "AYT",
+        "PAR",
+        "PRG",
+        "ALC",
+        "BER",
+        "OSL",
+        "GRO",
+        "SIT",
+        "RIX",
+        "CPH",
+        "MIL",
+        "NCE",
+        "GDN",
+        "HEL",
+        "LIS",
+        "VIE",
+        "KRK",
+        "TLL",
+        "VNO",
+        "SPU",
+        "DUS",
+        "EDI",
+        "HAM",
+        "AUH",
+        "WAW",
+        "FAO",
+        "CHQ",
+        "AMS",
+        "BGO",
+        "RHO",
+        "HER",
+        "ATH",
+        "NYC",
+        "MLA",
+        "TIA",
+        "HRG",
+        "BRU",
+        "MUC",
+        "IST",
+        "MMX",
+        "MAD",
+        "LCA",
+        "TOS",
+        "TKU",
+        "SKG",
+        "SVG",
+        "PLQ",
+        "SSH",
+        "BUD",
+        "RAK",
+        "DBV",
+        "AAL",
+        "VCE",
+        "DUB",
+        "BKK",
+        "GVA",
+        "UME",
+        "KRS",
+        "TRD",
+        "CTA",
+        "OTP",
+        "BLQ",
+        "LLA",
+        "TIV",
+        "EVE",
+        "TFS",
+        "BOO",
+        "CFU",
+        "PSA",
+        "BOJ",
+        "BEG",
+        "AES",
+        "TMP",
+        "JTR",
+        "PMO",
+        "HAU",
+        "RMI",
+        "ECN",
+        "MOL",
+        "REK",
+        "LJU",
+        "BLL",
+        "GZO",
+        "MAN",
+        "DOH",
+        "MPL",
+        "ZRH",
+        "GOT",
+        "AGA",
+        "VLC",
+        "PUY",
+        "OLB",
+        "BRI",
+        "KUN",
+        "OPO",
+        "POZ",
+        "ZAD",
+        "RVN",
+        "SOF",
+        "LYR",
+        "NAP",
+        "CAI",
+        "WRO",
+        "BSL",
+        "BIO",
+        "BJV",
+        "PRN",
+        "LPL",
+        "BHX",
+        "AMF",
+        "VAR",
+        "VBY",
+        "TBS",
+        "BIA",
+        "JMK",
+        "SKP",
+        "TLS",
+        "FRA",
+        "FNC",
+        "VRN",
+        "PVK",
+        "LYS",
+        "SJJ",
+        "SZZ",
+        "MRS"
+      ]
+      
+    },
+    {
+      "code": "CPH",
+      "name": "Köpenhamn",
+      "enabled": [
+        "PMI",
+        "DXB",
+        "AGP",
+        "BCN",
+        "LON",
+        "PRG",
+        "LPA",
+        "PAR",
+        "ROM",
+        "AYT",
+        "ALC",
+        "BER",
+        "STO",
+        "OSL",
+        "RIX",
+        "GRO",
+        "SIT",
+        "KRK",
+        "NCE",
+        "AUH",
+        "MIL",
+        "HEL",
+        "LIS",
+        "FAO",
+        "GDN",
+        "VIE",
+        "EDI",
+        "DUS",
+        "ATH",
+        "SPU",
+        "VNO",
+        "AMS",
+        "TLL",
+        "NYC",
+        "BGO",
+        "MAD",
+        "HAM",
+        "CHQ",
+        "OTP",
+        "MUC",
+        "WAW",
+        "BUD",
+        "DUB",
+        "IST",
+        "AAL",
+        "HER",
+        "GVA",
+        "VCE",
+        "HRG",
+        "LCA",
+        "SSH",
+        "BRU",
+        "SVG",
+        "TOS",
+        "TKU",
+        "PLQ",
+        "TIA",
+        "RAK",
+        "CTA",
+        "BKK",
+        "MLA",
+        "BLQ",
+        "FNC",
+        "TRD",
+        "RHO",
+        "MAN",
+        "BSL",
+        "TFS",
+        "KRS",
+        "MIA",
+        "PSA",
+        "SOF",
+        "BEG",
+        "DBV",
+        "PMO",
+        "BOJ",
+        "ACE",
+        "EVE",
+        "SKG",
+        "MPL",
+        "TIV",
+        "RMI",
+        "VLC",
+        "UME",
+        "NAP",
+        "BOO",
+        "LJU",
+        "AES",
+        "DOH",
+        "TMP",
+        "HKT",
+        "HAU",
+        "BIO",
+        "ECN",
+        "OPO",
+        "ZAD",
+        "LLA",
+        "MOL",
+        "OLB",
+        "CAI",
+        "KUN",
+        "PUY",
+        "AGA",
+        "BOD",
+        "JTR",
+        "AMF",
+        "FLL",
+        "BRI",
+        "TLS",
+        "LYS",
+        "LYR",
+        "GZO",
+        "WRO",
+        "SKP",
+        "POZ",
+        "CFU",
+        "VRN",
+        "RVN",
+        "KUT",
+        "BJV",
+        "VBY",
+        "BIA",
+        "TBS",
+        "FLR",
+        "PRN",
+        "FRA",
+        "GOT",
+        "MRS",
+        "REK",
+        "PVK",
+        "VAR",
+        "JMK"
+      ]
+    },
+    {
+      "code": "GOT",
+      "name": "Göteborg",
+      "enabled": [
+        "AGP",
+        "PMI",
+        "ALC",
+        "AYT",
+        "BCN",
+        "LON",
+        "PAR",
+        "LPA",
+        "ROM",
+        "BER",
+        "GRO",
+        "GDN",
+        "SIT",
+        "DXB",
+        "DUS",
+        "VIE",
+        "IST",
+        "PRG",
+        "AMS",
+        "RIX",
+        "KRK",
+        "HRG",
+        "STO",
+        "MIL",
+        "WAW",
+        "MUC",
+        "HEL",
+        "NCE",
+        "MLA",
+        "DBV",
+        "BRU",
+        "CPH",
+        "BEG",
+        "HAM",
+        "ZAD",
+        "MAN",
+        "RAK",
+        "BUD",
+        "VNO",
+        "FAO",
+        "PSA",
+        "BGO",
+        "CHQ",
+        "EDI",
+        "TIA",
+        "OSL",
+        "RHO",
+        "SKP",
+        "NYC",
+        "SPU",
+        "LIS",
+        "GZO",
+        "MMX",
+        "ATH",
+        "PLQ",
+        "TFS",
+        "JTR",
+        "LCA",
+        "HER",
+        "KUN",
+        "TLL",
+        "MIA",
+        "CFU",
+        "ZRH",
+        "BLQ",
+        "RMI",
+        "ECN",
+        "SOF",
+        "VAR",
+        "TKU"
+      ]
+    },
+    {
+      "code": "MMX",
+      "name": "Malmö",
+      "enabled": [
+        "TIA",
+        "GDN",
+        "SKP",
+        "BEG",
+        "LON",
+        "AMS"
+      ]
+    },
+    {
+      "code": "VXO",
+      "name": "Växjö",
+      "enabled": [
+        "ALC",
+        "AGP",
+        "PMI",
+        "GDN",
+        "ZAD"
+      ]
+    },
+    {
+      "code": "UME",
+      "name": "Umeå",
+      "enabled": [
+        "PMI",
+        "LON",
+        "BCN",
+        "AGP",
+        "STO",
+        "PAR",
+        "ALC",
+        "PRG",
+        "BER",
+        "OSL",
+        "GRO",
+        "SIT",
+        "CPH",
+        "RIX",
+        "NCE",
+        "ROM",
+        "HEL",
+        "LPA",
+        "DXB",
+        "MMX",
+        "FAO",
+        "LLA",
+        "VNO",
+        "BGO",
+        "AMS",
+        "AYT",
+        "BOJ",
+        "TOS",
+        "CHQ",
+        "SKG",
+        "JTR",
+        "PSA",
+        "VBY",
+        "BUD",
+        "DBV",
+        "BLL",
+        "TFS"
+      ]
+    },
+    {
+      "code": "LLA",
+      "name": "Luleå",
+      "enabled": [
+        "PMI",
+        "AGP",
+        "LON",
+        "BCN",
+        "STO",
+        "ALC",
+        "PRG",
+        "PAR",
+        "OSL",
+        "BER",
+        "GRO",
+        "SIT",
+        "RIX",
+        "CPH",
+        "NCE",
+        "HEL",
+        "LPA",
+        "ROM",
+        "DXB",
+        "KRK",
+        "MMX",
+        "UME",
+        "FAO",
+        "VNO",
+        "MUC",
+        "BGO",
+        "CHQ",
+        "AYT",
+        "BUD",
+        "RHO",
+        "BOJ",
+        "MAN",
+        "TOS",
+        "PSA",
+        "AMS",
+        "JTR",
+        "SKG",
+        "VBY",
+        "DBV",
+        "BLL",
+        "PRN"
+      ]
+    },
+    {
+      "code": "VST",
+      "name": "Västerås",
+      "enabled": [
+        "AGP",
+        "LON",
+        "ALC"
+      ]
+    },
+    {
+      "code": "VBY",
+      "name": "Visby",
+      "enabled": [
+        "LON",
+        "STO",
+        "OSL",
+        "CPH",
+        "BCN",
+        "AGP",
+        "HEL",
+        "NCE",
+        "ALC",
+        "GRO",
+        "SIT",
+        "MMX",
+        "UME",
+        "LLA"
+      ]
+    },
+    
+    {
+      "code": "SFT",
+      "name": "Skellefteå, Skellefteå",
+      "enabled": [
+        "STO",
+        "LON",
+        "OSL",
+        "AGP",
+        "CPH",
+        "BCN",
+        "ALC",
+        "HEL",
+        "GRO",
+        "MMX",
+        "SIT",
+        "KRK",
+        "RIX",
+        "PMI",
+        "UME",
+        "NCE",
+        "LLA"
+      ]
+    }
+  ]}

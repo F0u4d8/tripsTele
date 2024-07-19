@@ -1,0 +1,12 @@
+http://geonode_Ub8XaDs3mu:6b94517c-7b8b-4594-9212-0951906ee150@shared-datacenter.geonode.com:9000
+http://geonode_Ub8XaDs3mu:6b94517c-7b8b-4594-9212-0951906ee150@shared-datacenter.geonode.com:9001
+http://geonode_Ub8XaDs3mu:6b94517c-7b8b-4594-9212-0951906ee150@shared-datacenter.geonode.com:9002
+http://geonode_Ub8XaDs3mu:6b94517c-7b8b-4594-9212-0951906ee150@shared-datacenter.geonode.com:9003
+http://geonode_Ub8XaDs3mu:6b94517c-7b8b-4594-9212-0951906ee150@shared-datacenter.geonode.com:9004
+http://geonode_Ub8XaDs3mu:6b94517c-7b8b-4594-9212-0951906ee150@shared-datacenter.geonode.com:9005
+http://geonode_Ub8XaDs3mu:6b94517c-7b8b-4594-9212-0951906ee150@shared-datacenter.geonode.com:9006
+http://geonode_Ub8XaDs3mu:6b94517c-7b8b-4594-9212-0951906ee150@shared-datacenter.geonode.com:9007
+http://geonode_Ub8XaDs3mu:6b94517c-7b8b-4594-9212-0951906ee150@shared-datacenter.geonode.com:9008
+http://geonode_Ub8XaDs3mu:6b94517c-7b8b-4594-9212-0951906ee150@shared-datacenter.geonode.com:9009
+http://geonode_Ub8XaDs3mu:6b94517c-7b8b-4594-9212-0951906ee150@shared-datacenter.geonode.com:9010
+

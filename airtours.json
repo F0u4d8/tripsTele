@@ -1,0 +1,2483 @@
+ [
+      {
+        "isSelected": false,
+        "isAvailable": true,
+        "caption": "Bulgarien",
+        "value": "4",
+        "count": 37,
+        "metadata": "Type:Country || Latitude:42.642 || Longitude:25.2576 || CanonicalName:bulgarien || SiteType:Summer"
+      },
+      {
+        "isSelected": false,
+        "isAvailable": true,
+        "caption": "Cypern",
+        "value": "6",
+        "count": 28,
+        "metadata": "Type:Country || Latitude:35.084 || Longitude:33.3325 || CanonicalName:cypern || SiteType:Summer"
+      },
+      {
+        "isSelected": false,
+        "isAvailable": true,
+        "caption": "Egypten",
+        "value": "11",
+        "count": 38,
+        "metadata": "Type:Country || Latitude:26.5296 || Longitude:32.168 || CanonicalName:egypten || SiteType:Summer"
+      },
+      {
+        "isSelected": false,
+        "isAvailable": true,
+        "caption": "Grekland",
+        "value": "16",
+        "count": 595,
+        "metadata": "Type:Country || Latitude:38.8825 || Longitude:23.324 || CanonicalName:grekland || SiteType:Summer"
+      },
+      {
+        "isSelected": false,
+        "isAvailable": true,
+        "caption": "Italien",
+        "value": "20",
+        "count": 23,
+        "metadata": "Type:Country || Latitude:46.2521 || Longitude:11.4587 || CanonicalName:italien || SiteType:Summer"
+      },
+      {
+        "isSelected": false,
+        "isAvailable": true,
+        "caption": "Kroatien",
+        "value": "17",
+        "count": 10,
+        "metadata": "Type:Country || Latitude:44.567 || Longitude:15.1227 || CanonicalName:kroatien || SiteType:Summer"
+      },
+      {
+        "isSelected": false,
+        "isAvailable": true,
+        "caption": "Marocko",
+        "value": "23",
+        "count": 9,
+        "metadata": "Type:Country || Latitude:32.6209 || Longitude:-6.43799 || CanonicalName:marocko || SiteType:Summer"
+      },
+      {
+        "isSelected": false,
+        "isAvailable": true,
+        "caption": "Portugal",
+        "value": "27",
+        "count": 78,
+        "metadata": "Type:Country || Latitude:39.4532 || Longitude:-8.83301 || CanonicalName:portugal || SiteType:Summer"
+      },
+      {
+        "isSelected": false,
+        "isAvailable": true,
+        "caption": "Spanien",
+        "value": "12",
+        "count": 270,
+        "metadata": "Type:Country || Latitude:40.4637 || Longitude:-3.60352 || CanonicalName:spanien || SiteType:Summer"
+      },
+      {
+        "isSelected": false,
+        "isAvailable": true,
+        "caption": "Turkiet",
+        "value": "29",
+        "count": 186,
+        "metadata": "Type:Country || Latitude:36.7565 || Longitude:30.7837 || CanonicalName:turkiet || SiteType:Summer"
+      },
+      {
+        "isSelected": false,
+        "isAvailable": true,
+        "caption": "Agadir",
+        "value": "161",
+        "count": 4,
+        "metadata": "Type:Region || ParentId:23 || CanonicalName:agadir || SiteType:Summer"
+      },
+      {
+        "isSelected": false,
+        "isAvailable": true,
+        "caption": "Algarvekusten",
+        "value": "174",
+        "count": 48,
+        "metadata": "Type:Region || Latitude:37.2106 || Longitude:-8.16284 || ParentId:27 || CanonicalName:algarvekusten || SiteType:Summer"
+      },
+      {
+        "isSelected": false,
+        "isAvailable": true,
+        "caption": "Alonissos",
+        "value": "113",
+        "count": 3,
+        "metadata": "Type:Region || Latitude:39.1441 || Longitude:23.8638 || ParentId:16 || CanonicalName:alonissos || SiteType:Summer"
+      },
+      {
+        "isSelected": false,
+        "isAvailable": true,
+        "caption": "Bodrum-halvön",
+        "value": "179",
+        "count": 34,
+        "metadata": "Type:Region || Latitude:37.8944 || Longitude:27.1445 || ParentId:29 || CanonicalName:bodrum-halvon || SiteType:Summer"
+      },
+      {
+        "isSelected": false,
+        "isAvailable": true,
+        "caption": "Costa Blanca",
+        "value": "72",
+        "count": 36,
+        "metadata": "Type:Region || Latitude:38.357 || Longitude:-0.42469 || ParentId:12 || CanonicalName:costa blanca || SiteType:Summer"
+      },
+      {
+        "isSelected": false,
+        "isAvailable": true,
+        "caption": "Costa Brava",
+        "value": "70",
+        "count": 31,
+        "metadata": "Type:Region || Latitude:42.1899 || Longitude:3.11188 || ParentId:12 || CanonicalName:costa brava || SiteType:Summer"
+      },
+      {
+        "isSelected": false,
+        "isAvailable": true,
+        "caption": "Costa de Lisboa",
+        "value": "175",
+        "count": 4,
+        "metadata": "Type:Region || ParentId:27 || CanonicalName:costa de lisboa || SiteType:Summer"
+      },
+      {
+        "isSelected": false,
+        "isAvailable": true,
+        "caption": "Costa del Sol",
+        "value": "86",
+        "count": 54,
+        "metadata": "Type:Region || Latitude:36.7235 || Longitude:-4.38629 || ParentId:12 || CanonicalName:costa del sol || SiteType:Summer"
+      },
+      {
+        "isSelected": false,
+        "isAvailable": true,
+        "caption": "Cypern ",
+        "value": "47",
+        "count": 28,
+        "metadata": "Type:Region || Latitude:35.1424 || Longitude:33.3655 || ParentId:6 || CanonicalName:cypern  || SiteType:Summer"
+      },
+      {
+        "isSelected": false,
+        "isAvailable": true,
+        "caption": "Dalmatien",
+        "value": "137",
+        "count": 10,
+        "metadata": "Type:Region || Latitude:43.7632 || Longitude:16.474 || ParentId:17 || CanonicalName:dalmatien || SiteType:Summer"
+      },
+      {
+        "isSelected": false,
+        "isAvailable": true,
+        "caption": "Epirus (Parga)",
+        "value": "125",
+        "count": 25,
+        "metadata": "Type:Region || Latitude:39.4158 || Longitude:20.4436 || ParentId:16 || CanonicalName:epirus (parga) || SiteType:Summer"
+      },
+      {
+        "isSelected": false,
+        "isAvailable": true,
+        "caption": "Gran Canaria",
+        "value": "77",
+        "count": 37,
+        "metadata": "Type:Region || Latitude:27.9653 || Longitude:-15.4385 || ParentId:12 || CanonicalName:gran canaria || SiteType:Summer"
+      },
+      {
+        "isSelected": false,
+        "isAvailable": true,
+        "caption": "Halkidiki",
+        "value": "130203",
+        "count": 39,
+        "metadata": "Type:Region || Latitude:40.3842 || Longitude:23.2965 || ParentId:16 || CanonicalName:halkidiki || SiteType:Summer"
+      },
+      {
+        "isSelected": false,
+        "isAvailable": true,
+        "caption": "Karpathos",
+        "value": "117",
+        "count": 20,
+        "metadata": "Type:Region || Latitude:35.5792 || Longitude:27.2104 || ParentId:16 || CanonicalName:karpathos || SiteType:Summer"
+      },
+      {
+        "isSelected": false,
+        "isAvailable": true,
+        "caption": "Kefalonia",
+        "value": "118",
+        "count": 17,
+        "metadata": "Type:Region || Latitude:38.2759 || Longitude:20.5884 || ParentId:16 || CanonicalName:kefalonia || SiteType:Summer"
+      },
+      {
+        "isSelected": false,
+        "isAvailable": true,
+        "caption": "Korfu",
+        "value": "116",
+        "count": 40,
+        "metadata": "Type:Region || Latitude:39.5951 || Longitude:19.888 || ParentId:16 || CanonicalName:korfu || SiteType:Summer"
+      },
+      {
+        "isSelected": false,
+        "isAvailable": true,
+        "caption": "Kos",
+        "value": "119",
+        "count": 45,
+        "metadata": "Type:Region || Latitude:36.8049 || Longitude:27.139 || ParentId:16 || CanonicalName:kos || SiteType:Summer"
+      },
+      {
+        "isSelected": false,
+        "isAvailable": true,
+        "caption": "Kreta",
+        "value": "120",
+        "count": 125,
+        "metadata": "Type:Region || Latitude:35.1603 || Longitude:25.0763 || ParentId:16 || CanonicalName:kreta || SiteType:Summer"
+      },
+      {
+        "isSelected": false,
+        "isAvailable": true,
+        "caption": "Kusadasi",
+        "value": "127828",
+        "count": 17,
+        "metadata": "Type:Region || ParentId:29 || CanonicalName:kusadasi || SiteType:Summer"
+      },
+      {
+        "isSelected": false,
+        "isAvailable": true,
+        "caption": "Lefkas",
+        "value": "122",
+        "count": 26,
+        "metadata": "Type:Region || Latitude:38.7883 || Longitude:20.6845 || ParentId:16 || CanonicalName:lefkas || SiteType:Summer"
+      },
+      {
+        "isSelected": false,
+        "isAvailable": true,
+        "caption": "Madeira",
+        "value": "177",
+        "count": 26,
+        "metadata": "Type:Region || Latitude:32.7388 || Longitude:-16.9766 || ParentId:27 || CanonicalName:madeira || SiteType:Summer"
+      },
+      {
+        "isSelected": false,
+        "isAvailable": true,
+        "caption": "Mallorca",
+        "value": "83",
+        "count": 66,
+        "metadata": "Type:Region || Latitude:39.557 || Longitude:3.06793 || ParentId:12 || CanonicalName:mallorca || SiteType:Summer"
+      },
+      {
+        "isSelected": false,
+        "isAvailable": true,
+        "caption": "Marmariskusten",
+        "value": "182",
+        "count": 33,
+        "metadata": "Type:Region || Latitude:36.9235 || Longitude:28.7457 || ParentId:29 || CanonicalName:marmariskusten || SiteType:Summer"
+      },
+      {
+        "isSelected": false,
+        "isAvailable": true,
+        "caption": "Marrakech",
+        "value": "162",
+        "count": 5,
+        "metadata": "Type:Region || Latitude:31.6396 || Longitude:-7.99942 || ParentId:23 || CanonicalName:marrakech || SiteType:Summer"
+      },
+      {
+        "isSelected": false,
+        "isAvailable": true,
+        "caption": "Paxos",
+        "value": "128",
+        "count": 1,
+        "metadata": "Type:Region || Latitude:39.2103 || Longitude:20.158 || ParentId:16 || CanonicalName:paxos || SiteType:Summer"
+      },
+      {
+        "isSelected": false,
+        "isAvailable": true,
+        "caption": "Rhodos",
+        "value": "129",
+        "count": 87,
+        "metadata": "Type:Region || Latitude:36.1623 || Longitude:27.9575 || ParentId:16 || CanonicalName:rhodos || SiteType:Summer"
+      },
+      {
+        "isSelected": false,
+        "isAvailable": true,
+        "caption": "Röda havet",
+        "value": "67",
+        "count": 38,
+        "metadata": "Type:Region || Latitude:20.6787 || Longitude:38.5264 || ParentId:11 || CanonicalName:roda havet || SiteType:Summer"
+      },
+      {
+        "isSelected": false,
+        "isAvailable": true,
+        "caption": "Samos",
+        "value": "130",
+        "count": 45,
+        "metadata": "Type:Region || Latitude:37.7647 || Longitude:26.9756 || ParentId:16 || CanonicalName:samos || SiteType:Summer"
+      },
+      {
+        "isSelected": false,
+        "isAvailable": true,
+        "caption": "Sicilien",
+        "value": "154",
+        "count": 23,
+        "metadata": "Type:Region || Latitude:38.0418 || Longitude:13.3563 || ParentId:20 || CanonicalName:sicilien || SiteType:Summer"
+      },
+      {
+        "isSelected": false,
+        "isAvailable": true,
+        "caption": "Skiathos",
+        "value": "131",
+        "count": 23,
+        "metadata": "Type:Region || Latitude:39.1567 || Longitude:23.4503 || ParentId:16 || CanonicalName:skiathos || SiteType:Summer"
+      },
+      {
+        "isSelected": false,
+        "isAvailable": true,
+        "caption": "Skopelos",
+        "value": "133",
+        "count": 10,
+        "metadata": "Type:Region || Latitude:39.1151 || Longitude:23.725 || ParentId:16 || CanonicalName:skopelos || SiteType:Summer"
+      },
+      {
+        "isSelected": false,
+        "isAvailable": true,
+        "caption": "Svartahavskusten",
+        "value": "42",
+        "count": 37,
+        "metadata": "Type:Region || Latitude:42.6824 || Longitude:27.7515 || ParentId:4 || CanonicalName:svartahavskusten || SiteType:Summer"
+      },
+      {
+        "isSelected": false,
+        "isAvailable": true,
+        "caption": "Teneriffa",
+        "value": "87",
+        "count": 46,
+        "metadata": "Type:Region || Latitude:28.1744 || Longitude:-16.612 || ParentId:12 || CanonicalName:teneriffa || SiteType:Summer"
+      },
+      {
+        "isSelected": false,
+        "isAvailable": true,
+        "caption": "Thassos",
+        "value": "134",
+        "count": 14,
+        "metadata": "Type:Region || Latitude:40.7577 || Longitude:24.6945 || ParentId:16 || CanonicalName:thassos || SiteType:Summer"
+      },
+      {
+        "isSelected": false,
+        "isAvailable": true,
+        "caption": "Turkiets sydkust",
+        "value": "181",
+        "count": 102,
+        "metadata": "Type:Region || Latitude:36.2088 || Longitude:30.3882 || ParentId:29 || CanonicalName:turkiets sydkust || SiteType:Summer"
+      },
+      {
+        "isSelected": false,
+        "isAvailable": true,
+        "caption": "Zakynthos",
+        "value": "135",
+        "count": 75,
+        "metadata": "Type:Region || Latitude:37.7946 || Longitude:20.8493 || ParentId:16 || CanonicalName:zakynthos || SiteType:Summer"
+      },
+      {
+        "isSelected": false,
+        "isAvailable": true,
+        "caption": "Acharavi",
+        "value": "838",
+        "count": 1,
+        "metadata": "Type:City || Latitude:39.7933 || Longitude:19.8195 || ParentId:116 || CanonicalName:acharavi || SiteType:Summer"
+      },
+      {
+        "isSelected": false,
+        "isAvailable": true,
+        "caption": "Achladies",
+        "value": "1004",
+        "count": 2,
+        "metadata": "Type:City || Latitude:39.1476 || Longitude:23.4647 || ParentId:131 || CanonicalName:achladies || SiteType:Summer"
+      },
+      {
+        "isSelected": false,
+        "isAvailable": true,
+        "caption": "Afitos",
+        "value": "130926",
+        "count": 4,
+        "metadata": "Type:City || Latitude:40.0988 || Longitude:23.4363 || ParentId:130203 || CanonicalName:afitos || SiteType:Summer"
+      },
+      {
+        "isSelected": false,
+        "isAvailable": true,
+        "caption": "Agadir",
+        "value": "1242",
+        "count": 4,
+        "metadata": "Type:City || Latitude:30.4291 || Longitude:-9.59817 || ParentId:161 || CanonicalName:agadir || SiteType:Summer"
+      },
+      {
+        "isSelected": false,
+        "isAvailable": true,
+        "caption": "Agia Paraskevi",
+        "value": "1005",
+        "count": 4,
+        "metadata": "Type:City || Latitude:38.009 || Longitude:23.8228 || ParentId:131 || CanonicalName:agia paraskevi || SiteType:Summer"
+      },
+      {
+        "isSelected": false,
+        "isAvailable": true,
+        "caption": "Agia Pelagia",
+        "value": "26905",
+        "count": 7,
+        "metadata": "Type:City || Latitude:35.4081 || Longitude:25.018 || ParentId:120 || CanonicalName:agia pelagia || SiteType:Summer"
+      },
+      {
+        "isSelected": false,
+        "isAvailable": true,
+        "caption": "Agios Georgios Pagon",
+        "value": "6147775",
+        "count": 2,
+        "metadata": "Type:City || Latitude:39.7167 || Longitude:19.6814 || ParentId:116 || CanonicalName:agios georgios pagon || SiteType:Summer"
+      },
+      {
+        "isSelected": false,
+        "isAvailable": true,
+        "caption": "Agios Gordios",
+        "value": "839",
+        "count": 2,
+        "metadata": "Type:City || Latitude:39.5467 || Longitude:19.8521 || ParentId:116 || CanonicalName:agios gordios || SiteType:Summer"
+      },
+      {
+        "isSelected": false,
+        "isAvailable": true,
+        "caption": "Agios Ioannis",
+        "value": "947",
+        "count": 3,
+        "metadata": "Type:City || Latitude:38.8347 || Longitude:20.6787 || ParentId:122 || CanonicalName:agios ioannis || SiteType:Summer"
+      },
+      {
+        "isSelected": false,
+        "isAvailable": true,
+        "caption": "Agios Ioannis",
+        "value": "841",
+        "count": 2,
+        "metadata": "Type:City || Latitude:39.5084 || Longitude:19.9228 || ParentId:116 || CanonicalName:agios ioannis || SiteType:Summer"
+      },
+      {
+        "isSelected": false,
+        "isAvailable": true,
+        "caption": "Agios Konstantinos",
+        "value": "997",
+        "count": 2,
+        "metadata": "Type:City || Latitude:37.727 || Longitude:24.0136 || ParentId:130 || CanonicalName:agios konstantinos || SiteType:Summer"
+      },
+      {
+        "isSelected": false,
+        "isAvailable": true,
+        "caption": "Agios Markos",
+        "value": "6239276",
+        "count": 2,
+        "metadata": "Type:City || Latitude:39.7102 || Longitude:19.8283 || ParentId:116 || CanonicalName:agios markos || SiteType:Summer"
+      },
+      {
+        "isSelected": false,
+        "isAvailable": true,
+        "caption": "Agios Nikolaos",
+        "value": "899",
+        "count": 5,
+        "metadata": "Type:City || Latitude:35.1911 || Longitude:25.7159 || ParentId:120 || CanonicalName:agios nikolaos || SiteType:Summer"
+      },
+      {
+        "isSelected": false,
+        "isAvailable": true,
+        "caption": "Agios Sostis",
+        "value": "1036",
+        "count": 3,
+        "metadata": "Type:City || Latitude:37.7147 || Longitude:20.8593 || ParentId:135 || CanonicalName:agios sostis || SiteType:Summer"
+      },
+      {
+        "isSelected": false,
+        "isAvailable": true,
+        "caption": "Agios Spyridon",
+        "value": "123401",
+        "count": 2,
+        "metadata": "Type:City || Latitude:39.8119 || Longitude:19.8666 || ParentId:116 || CanonicalName:agios spyridon || SiteType:Summer"
+      },
+      {
+        "isSelected": false,
+        "isAvailable": true,
+        "caption": "Alanya",
+        "value": "1370",
+        "count": 52,
+        "metadata": "Type:City || Latitude:36.5485 || Longitude:31.9987 || ParentId:181 || CanonicalName:alanya || SiteType:Summer"
+      },
+      {
+        "isSelected": false,
+        "isAvailable": true,
+        "caption": "Albir",
+        "value": "420",
+        "count": 2,
+        "metadata": "Type:City || Latitude:38.576 || Longitude:-66018 || ParentId:72 || CanonicalName:albir || SiteType:Summer"
+      },
+      {
+        "isSelected": false,
+        "isAvailable": true,
+        "caption": "Albufeira",
+        "value": "1280",
+        "count": 17,
+        "metadata": "Type:City || Latitude:37.0876 || Longitude:-8.25314 || ParentId:174 || CanonicalName:albufeira || SiteType:Summer"
+      },
+      {
+        "isSelected": false,
+        "isAvailable": true,
+        "caption": "Alcudia",
+        "value": "530",
+        "count": 13,
+        "metadata": "Type:City || Latitude:39.8462 || Longitude:3.12716 || ParentId:83 || CanonicalName:alcudia || SiteType:Summer"
+      },
+      {
+        "isSelected": false,
+        "isAvailable": true,
+        "caption": "Alicante",
+        "value": "421",
+        "count": 1,
+        "metadata": "Type:City || Latitude:38.3461 || Longitude:-490035 || ParentId:72 || CanonicalName:alicante || SiteType:Summer"
+      },
+      {
+        "isSelected": false,
+        "isAvailable": true,
+        "caption": "Almuñecar",
+        "value": "581",
+        "count": 2,
+        "metadata": "Type:City || Latitude:36.7345 || Longitude:-3.6902 || ParentId:86 || CanonicalName:almunecar || SiteType:Summer"
+      },
+      {
+        "isSelected": false,
+        "isAvailable": true,
+        "caption": "Alvor",
+        "value": "1283",
+        "count": 2,
+        "metadata": "Type:City || Latitude:37.129 || Longitude:-8.5932 || ParentId:174 || CanonicalName:alvor || SiteType:Summer"
+      },
+      {
+        "isSelected": false,
+        "isAvailable": true,
+        "caption": "Alykanas",
+        "value": "83993",
+        "count": 3,
+        "metadata": "Type:City || Latitude:37.841 || Longitude:20.7882 || ParentId:135 || CanonicalName:alykanas || SiteType:Summer"
+      },
+      {
+        "isSelected": false,
+        "isAvailable": true,
+        "caption": "Ammoudia",
+        "value": "963",
+        "count": 1,
+        "metadata": "Type:City || Latitude:39.2397 || Longitude:20.4813 || ParentId:125 || CanonicalName:ammoudia || SiteType:Summer"
+      },
+      {
+        "isSelected": false,
+        "isAvailable": true,
+        "caption": "Amnissos",
+        "value": "113376",
+        "count": 1,
+        "metadata": "Type:City || Latitude:35.3791 || Longitude:24.5681 || ParentId:120 || CanonicalName:amnissos || SiteType:Summer"
+      },
+      {
+        "isSelected": false,
+        "isAvailable": true,
+        "caption": "Amopi",
+        "value": "862",
+        "count": 1,
+        "metadata": "Type:City || Latitude:35.4754 || Longitude:27.1937 || ParentId:117 || CanonicalName:amopi || SiteType:Summer"
+      },
+      {
+        "isSelected": false,
+        "isAvailable": true,
+        "caption": "Amoudara",
+        "value": "27289",
+        "count": 4,
+        "metadata": "Type:City || Latitude:35.3372 || Longitude:25.083 || ParentId:120 || CanonicalName:amoudara || SiteType:Summer"
+      },
+      {
+        "isSelected": false,
+        "isAvailable": true,
+        "caption": "Analipsi",
+        "value": "898",
+        "count": 6,
+        "metadata": "Type:City || Latitude:35.3319 || Longitude:25.3461 || ParentId:120 || CanonicalName:analipsi || SiteType:Summer"
+      },
+      {
+        "isSelected": false,
+        "isAvailable": true,
+        "caption": "Anissaras",
+        "value": "901",
+        "count": 2,
+        "metadata": "Type:City || Latitude:35.3349 || Longitude:25.38 || ParentId:120 || CanonicalName:anissaras || SiteType:Summer"
+      },
+      {
+        "isSelected": false,
+        "isAvailable": true,
+        "caption": "Antalya - Lara",
+        "value": "1375",
+        "count": 11,
+        "metadata": "Type:City || Latitude:36.8928 || Longitude:30.7068 || ParentId:181 || CanonicalName:antalya - lara || SiteType:Summer"
+      },
+      {
+        "isSelected": false,
+        "isAvailable": true,
+        "caption": "Argassi",
+        "value": "1035",
+        "count": 9,
+        "metadata": "Type:City || Latitude:37.7631 || Longitude:20.9231 || ParentId:135 || CanonicalName:argassi || SiteType:Summer"
+      },
+      {
+        "isSelected": false,
+        "isAvailable": true,
+        "caption": "Arguineguin",
+        "value": "453",
+        "count": 1,
+        "metadata": "Type:City || Latitude:27.7601 || Longitude:-15.6823 || ParentId:77 || CanonicalName:arguineguin || SiteType:Summer"
+      },
+      {
+        "isSelected": false,
+        "isAvailable": true,
+        "caption": "Arkassa",
+        "value": "863",
+        "count": 1,
+        "metadata": "Type:City || Latitude:35.4774 || Longitude:27.1191 || ParentId:117 || CanonicalName:arkassa || SiteType:Summer"
+      },
+      {
+        "isSelected": false,
+        "isAvailable": true,
+        "caption": "Ayia Napa",
+        "value": "175407",
+        "count": 14,
+        "metadata": "Type:City || Latitude:34.9978 || Longitude:34.0027 || ParentId:47 || CanonicalName:ayia napa || SiteType:Summer"
+      },
+      {
+        "isSelected": false,
+        "isAvailable": true,
+        "caption": "Bali",
+        "value": "27291",
+        "count": 1,
+        "metadata": "Type:City || Latitude:35.4165 || Longitude:24.7832 || ParentId:120 || CanonicalName:bali || SiteType:Summer"
+      },
+      {
+        "isSelected": false,
+        "isAvailable": true,
+        "caption": "Barbati",
+        "value": "843",
+        "count": 2,
+        "metadata": "Type:City || Latitude:39.7187 || Longitude:19.8717 || ParentId:116 || CanonicalName:barbati || SiteType:Summer"
+      },
+      {
+        "isSelected": false,
+        "isAvailable": true,
+        "caption": "Barcelona",
+        "value": "87588",
+        "count": 6,
+        "metadata": "Type:City || Latitude:41.2948 || Longitude:2.08466 || ParentId:70 || CanonicalName:barcelona || SiteType:Summer"
+      },
+      {
+        "isSelected": false,
+        "isAvailable": true,
+        "caption": "Belek",
+        "value": "1372",
+        "count": 8,
+        "metadata": "Type:City || Latitude:36.8604 || Longitude:31.0616 || ParentId:181 || CanonicalName:belek || SiteType:Summer"
+      },
+      {
+        "isSelected": false,
+        "isAvailable": true,
+        "caption": "Benahavís",
+        "value": "583",
+        "count": 1,
+        "metadata": "Type:City || Latitude:36.5214 || Longitude:-504511 || ParentId:86 || CanonicalName:benahavis || SiteType:Summer"
+      },
+      {
+        "isSelected": false,
+        "isAvailable": true,
+        "caption": "Benalmádena",
+        "value": "584",
+        "count": 8,
+        "metadata": "Type:City || Latitude:36.5866 || Longitude:-4.56757 || ParentId:86 || CanonicalName:benalmadena || SiteType:Summer"
+      },
+      {
+        "isSelected": false,
+        "isAvailable": true,
+        "caption": "Benidorm",
+        "value": "423",
+        "count": 24,
+        "metadata": "Type:City || Latitude:38.5406 || Longitude:-0.131149 || ParentId:72 || CanonicalName:benidorm || SiteType:Summer"
+      },
+      {
+        "isSelected": false,
+        "isAvailable": true,
+        "caption": "Bodrum",
+        "value": "1360",
+        "count": 5,
+        "metadata": "Type:City || Latitude:37.0149 || Longitude:27.4512 || ParentId:179 || CanonicalName:bodrum || SiteType:Summer"
+      },
+      {
+        "isSelected": false,
+        "isAvailable": true,
+        "caption": "Bodrum - Akyarlar",
+        "value": "106146",
+        "count": 1,
+        "metadata": "Type:City || ParentId:179 || CanonicalName:bodrum - akyarlar || SiteType:Summer"
+      },
+      {
+        "isSelected": false,
+        "isAvailable": true,
+        "caption": "Bodrum-Bitez",
+        "value": "1359",
+        "count": 5,
+        "metadata": "Type:City || Latitude:37.0418 || Longitude:27.3796 || ParentId:179 || CanonicalName:bodrum-bitez || SiteType:Summer"
+      },
+      {
+        "isSelected": false,
+        "isAvailable": true,
+        "caption": "Bodrum-Gümbet",
+        "value": "1361",
+        "count": 6,
+        "metadata": "Type:City || Latitude:37.0298 || Longitude:27.4095 || ParentId:179 || CanonicalName:bodrum-gumbet || SiteType:Summer"
+      },
+      {
+        "isSelected": false,
+        "isAvailable": true,
+        "caption": "Bodrum-Torba",
+        "value": "1365",
+        "count": 4,
+        "metadata": "Type:City || Latitude:37.08 || Longitude:27.4584 || ParentId:179 || CanonicalName:bodrum-torba || SiteType:Summer"
+      },
+      {
+        "isSelected": false,
+        "isAvailable": true,
+        "caption": "Bodrum-Turgutreis",
+        "value": "1367",
+        "count": 8,
+        "metadata": "Type:City || Latitude:37.0084 || Longitude:27.2591 || ParentId:179 || CanonicalName:bodrum-turgutreis || SiteType:Summer"
+      },
+      {
+        "isSelected": false,
+        "isAvailable": true,
+        "caption": "Brač Island - Postira",
+        "value": "6146888",
+        "count": 4,
+        "metadata": "Type:City || Latitude:43.3676 || Longitude:16.6444 || ParentId:137 || CanonicalName:brac island - postira || SiteType:Summer"
+      },
+      {
+        "isSelected": false,
+        "isAvailable": true,
+        "caption": "Brac Island - Supetar",
+        "value": "6151404",
+        "count": 1,
+        "metadata": "Type:City || Latitude:43.3766 || Longitude:16.5541 || ParentId:137 || CanonicalName:brac island - supetar || SiteType:Summer"
+      },
+      {
+        "isSelected": false,
+        "isAvailable": true,
+        "caption": "Cala d'Or",
+        "value": "540",
+        "count": 15,
+        "metadata": "Type:City || Latitude:39.374 || Longitude:3.22929 || ParentId:83 || CanonicalName:cala d'or || SiteType:Summer"
+      },
+      {
+        "isSelected": false,
+        "isAvailable": true,
+        "caption": "Cala Viñas",
+        "value": "22669",
+        "count": 1,
+        "metadata": "Type:City || Latitude:39.4951 || Longitude:2.53324 || ParentId:83 || CanonicalName:cala vinas || SiteType:Summer"
+      },
+      {
+        "isSelected": false,
+        "isAvailable": true,
+        "caption": "Calas de Mallorca",
+        "value": "533",
+        "count": 1,
+        "metadata": "Type:City || Latitude:39.4639 || Longitude:3.27873 || ParentId:83 || CanonicalName:calas de mallorca || SiteType:Summer"
+      },
+      {
+        "isSelected": false,
+        "isAvailable": true,
+        "caption": "Calella",
+        "value": "402",
+        "count": 3,
+        "metadata": "Type:City || Latitude:41.6127 || Longitude:2.65766 || ParentId:70 || CanonicalName:calella || SiteType:Summer"
+      },
+      {
+        "isSelected": false,
+        "isAvailable": true,
+        "caption": "Calheta",
+        "value": "1338",
+        "count": 1,
+        "metadata": "Type:City || Latitude:32.7154 || Longitude:-17.1812 || ParentId:177 || CanonicalName:calheta || SiteType:Summer"
+      },
+      {
+        "isSelected": false,
+        "isAvailable": true,
+        "caption": "Callao Salvaje",
+        "value": "105963",
+        "count": 1,
+        "metadata": "Type:City || Latitude:28.1295 || Longitude:-16.7841 || ParentId:87 || CanonicalName:callao salvaje || SiteType:Summer"
+      },
+      {
+        "isSelected": false,
+        "isAvailable": true,
+        "caption": "Calpe",
+        "value": "424",
+        "count": 7,
+        "metadata": "Type:City || Latitude:38.6426 || Longitude:0.0463486 || ParentId:72 || CanonicalName:calpe || SiteType:Summer"
+      },
+      {
+        "isSelected": false,
+        "isAvailable": true,
+        "caption": "Campofelice di Roccella",
+        "value": "5084269",
+        "count": 6,
+        "metadata": "Type:City || Latitude:37.9929 || Longitude:13.8844 || ParentId:154 || CanonicalName:campofelice di roccella || SiteType:Summer"
+      },
+      {
+        "isSelected": false,
+        "isAvailable": true,
+        "caption": "Ca'n Picafort",
+        "value": "36597",
+        "count": 2,
+        "metadata": "Type:City || Latitude:39.7657 || Longitude:3.14793 || ParentId:83 || CanonicalName:ca'n picafort || SiteType:Summer"
+      },
+      {
+        "isSelected": false,
+        "isAvailable": true,
+        "caption": "Caniço",
+        "value": "1339",
+        "count": 2,
+        "metadata": "Type:City || Latitude:32.6459 || Longitude:-16.8402 || ParentId:177 || CanonicalName:canico || SiteType:Summer"
+      },
+      {
+        "isSelected": false,
+        "isAvailable": true,
+        "caption": "Carvoeiro",
+        "value": "1288",
+        "count": 8,
+        "metadata": "Type:City || Latitude:37.0931 || Longitude:-8.44986 || ParentId:174 || CanonicalName:carvoeiro || SiteType:Summer"
+      },
+      {
+        "isSelected": false,
+        "isAvailable": true,
+        "caption": "Cascais",
+        "value": "1312",
+        "count": 1,
+        "metadata": "Type:City || Latitude:38.7117 || Longitude:-941551 || ParentId:175 || CanonicalName:cascais || SiteType:Summer"
+      },
+      {
+        "isSelected": false,
+        "isAvailable": true,
+        "caption": "Cefalù",
+        "value": "37305",
+        "count": 8,
+        "metadata": "Type:City || Latitude:38.0366 || Longitude:14.0191 || ParentId:154 || CanonicalName:cefalu || SiteType:Summer"
+      },
+      {
+        "isSelected": false,
+        "isAvailable": true,
+        "caption": "Chania - Agia Marina",
+        "value": "6191279",
+        "count": 8,
+        "metadata": "Type:City || Latitude:35.5187 || Longitude:23.9292 || ParentId:120 || CanonicalName:chania - agia marina || SiteType:Summer"
+      },
+      {
+        "isSelected": false,
+        "isAvailable": true,
+        "caption": "Chania - Agioi Apostoloi",
+        "value": "6191825",
+        "count": 2,
+        "metadata": "Type:City || Latitude:35.5116 || Longitude:23.9795 || ParentId:120 || CanonicalName:chania - agioi apostoloi || SiteType:Summer"
+      },
+      {
+        "isSelected": false,
+        "isAvailable": true,
+        "caption": "Chania - Daratso ",
+        "value": "6191787",
+        "count": 2,
+        "metadata": "Type:City || Latitude:35.5119 || Longitude:23.976 || ParentId:120 || CanonicalName:chania - daratso  || SiteType:Summer"
+      },
+      {
+        "isSelected": false,
+        "isAvailable": true,
+        "caption": "Chania - Gerani",
+        "value": "6191278",
+        "count": 3,
+        "metadata": "Type:City || Latitude:35.5194 || Longitude:23.8799 || ParentId:120 || CanonicalName:chania - gerani || SiteType:Summer"
+      },
+      {
+        "isSelected": false,
+        "isAvailable": true,
+        "caption": "Chania - Kalamaki ",
+        "value": "6239557",
+        "count": 2,
+        "metadata": "Type:City || ParentId:120 || CanonicalName:chania - kalamaki  || SiteType:Summer"
+      },
+      {
+        "isSelected": false,
+        "isAvailable": true,
+        "caption": "Chania - Kolymbari",
+        "value": "6191000",
+        "count": 3,
+        "metadata": "Type:City || Latitude:35.5432 || Longitude:23.7813 || ParentId:120 || CanonicalName:chania - kolymbari || SiteType:Summer"
+      },
+      {
+        "isSelected": false,
+        "isAvailable": true,
+        "caption": "Chania - Maleme",
+        "value": "6191788",
+        "count": 1,
+        "metadata": "Type:City || Latitude:35.5245 || Longitude:23.8465 || ParentId:120 || CanonicalName:chania - maleme || SiteType:Summer"
+      },
+      {
+        "isSelected": false,
+        "isAvailable": true,
+        "caption": "Chania - Platanias",
+        "value": "6191280",
+        "count": 8,
+        "metadata": "Type:City || Latitude:35.5195 || Longitude:23.9019 || ParentId:120 || CanonicalName:chania - platanias || SiteType:Summer"
+      },
+      {
+        "isSelected": false,
+        "isAvailable": true,
+        "caption": "Chania - Stalos",
+        "value": "6191281",
+        "count": 5,
+        "metadata": "Type:City || Latitude:35.5129 || Longitude:23.9471 || ParentId:120 || CanonicalName:chania - stalos || SiteType:Summer"
+      },
+      {
+        "isSelected": false,
+        "isAvailable": true,
+        "caption": "Chania - Stavros",
+        "value": "6244612",
+        "count": 1,
+        "metadata": "Type:City || Latitude:35.5877 || Longitude:24.0912 || ParentId:120 || CanonicalName:chania - stavros || SiteType:Summer"
+      },
+      {
+        "isSelected": false,
+        "isAvailable": true,
+        "caption": "Chavdata",
+        "value": "6137646",
+        "count": 1,
+        "metadata": "Type:City || Latitude:38.2029 || Longitude:20.3871 || ParentId:118 || CanonicalName:chavdata || SiteType:Summer"
+      },
+      {
+        "isSelected": false,
+        "isAvailable": true,
+        "caption": "Costa Adeje",
+        "value": "602",
+        "count": 13,
+        "metadata": "Type:City || Latitude:28.0856 || Longitude:-16.7368 || ParentId:87 || CanonicalName:costa adeje || SiteType:Summer"
+      },
+      {
+        "isSelected": false,
+        "isAvailable": true,
+        "caption": "Danillia",
+        "value": "94780",
+        "count": 1,
+        "metadata": "Type:City || Latitude:39.6386 || Longitude:19.8364 || ParentId:116 || CanonicalName:danillia || SiteType:Summer"
+      },
+      {
+        "isSelected": false,
+        "isAvailable": true,
+        "caption": "Dassia",
+        "value": "846",
+        "count": 2,
+        "metadata": "Type:City || Latitude:39.6883 || Longitude:19.8435 || ParentId:116 || CanonicalName:dassia || SiteType:Summer"
+      },
+      {
+        "isSelected": false,
+        "isAvailable": true,
+        "caption": "Didim",
+        "value": "169047",
+        "count": 3,
+        "metadata": "Type:City || Latitude:37.3728 || Longitude:27.2646 || ParentId:179 || CanonicalName:didim || SiteType:Summer"
+      },
+      {
+        "isSelected": false,
+        "isAvailable": true,
+        "caption": "El Campello",
+        "value": "36453",
+        "count": 1,
+        "metadata": "Type:City || Latitude:38.4291 || Longitude:-0.397815 || ParentId:72 || CanonicalName:el campello || SiteType:Summer"
+      },
+      {
+        "isSelected": false,
+        "isAvailable": true,
+        "caption": "El Gouna",
+        "value": "390",
+        "count": 7,
+        "metadata": "Type:City || Latitude:27.3657 || Longitude:33.6717 || ParentId:67 || CanonicalName:el gouna || SiteType:Summer"
+      },
+      {
+        "isSelected": false,
+        "isAvailable": true,
+        "caption": "Elounda",
+        "value": "914",
+        "count": 2,
+        "metadata": "Type:City || Latitude:35.2629 || Longitude:25.7147 || ParentId:120 || CanonicalName:elounda || SiteType:Summer"
+      },
+      {
+        "isSelected": false,
+        "isAvailable": true,
+        "caption": "Estepona",
+        "value": "582",
+        "count": 6,
+        "metadata": "Type:City || Latitude:36.4395 || Longitude:-5.14366 || ParentId:86 || CanonicalName:estepona || SiteType:Summer"
+      },
+      {
+        "isSelected": false,
+        "isAvailable": true,
+        "caption": "Faliraki",
+        "value": "983",
+        "count": 20,
+        "metadata": "Type:City || Latitude:36.3396 || Longitude:28.2007 || ParentId:129 || CanonicalName:faliraki || SiteType:Summer"
+      },
+      {
+        "isSelected": false,
+        "isAvailable": true,
+        "caption": "Fly & Drive Andalusien",
+        "value": "587",
+        "count": 1,
+        "metadata": "Type:City || ParentId:86 || CanonicalName:fly & drive andalusien || SiteType:Summer"
+      },
+      {
+        "isSelected": false,
+        "isAvailable": true,
+        "caption": "Fly & Drive Madeira",
+        "value": "1342",
+        "count": 4,
+        "metadata": "Type:City || Latitude:32.7563 || Longitude:-16963 || ParentId:177 || CanonicalName:fly & drive madeira || SiteType:Summer"
+      },
+      {
+        "isSelected": false,
+        "isAvailable": true,
+        "caption": "Fly & Drive Sicilien",
+        "value": "6219255",
+        "count": 2,
+        "metadata": "Type:City || ParentId:154 || CanonicalName:fly & drive sicilien || SiteType:Summer"
+      },
+      {
+        "isSelected": false,
+        "isAvailable": true,
+        "caption": "Fodele",
+        "value": "27292",
+        "count": 1,
+        "metadata": "Type:City || Latitude:35.3821 || Longitude:24.9585 || ParentId:120 || CanonicalName:fodele || SiteType:Summer"
+      },
+      {
+        "isSelected": false,
+        "isAvailable": true,
+        "caption": "Fuengirola",
+        "value": "589",
+        "count": 6,
+        "metadata": "Type:City || Latitude:36.5407 || Longitude:-4.63005 || ParentId:86 || CanonicalName:fuengirola || SiteType:Summer"
+      },
+      {
+        "isSelected": false,
+        "isAvailable": true,
+        "caption": "Funchal",
+        "value": "1343",
+        "count": 18,
+        "metadata": "Type:City || Latitude:32.7399 || Longitude:-16.9945 || ParentId:177 || CanonicalName:funchal || SiteType:Summer"
+      },
+      {
+        "isSelected": false,
+        "isAvailable": true,
+        "caption": "Gennadi",
+        "value": "6149704",
+        "count": 1,
+        "metadata": "Type:City || Latitude:36.025 || Longitude:27.917 || ParentId:129 || CanonicalName:gennadi || SiteType:Summer"
+      },
+      {
+        "isSelected": false,
+        "isAvailable": true,
+        "caption": "Georgioupolis",
+        "value": "916",
+        "count": 3,
+        "metadata": "Type:City || Latitude:35.3634 || Longitude:24.2619 || ParentId:120 || CanonicalName:georgioupolis || SiteType:Summer"
+      },
+      {
+        "isSelected": false,
+        "isAvailable": true,
+        "caption": "Gerakini",
+        "value": "189910",
+        "count": 2,
+        "metadata": "Type:City || Latitude:40.266 || Longitude:23.457 || ParentId:130203 || CanonicalName:gerakini || SiteType:Summer"
+      },
+      {
+        "isSelected": false,
+        "isAvailable": true,
+        "caption": "Giardini Naxos",
+        "value": "1144",
+        "count": 2,
+        "metadata": "Type:City || Latitude:37.8261 || Longitude:15.2668 || ParentId:154 || CanonicalName:giardini naxos || SiteType:Summer"
+      },
+      {
+        "isSelected": false,
+        "isAvailable": true,
+        "caption": "Glyfada",
+        "value": "848",
+        "count": 1,
+        "metadata": "Type:City || Latitude:37.8655 || Longitude:23.7569 || ParentId:116 || CanonicalName:glyfada || SiteType:Summer"
+      },
+      {
+        "isSelected": false,
+        "isAvailable": true,
+        "caption": "Golden Beach",
+        "value": "1022",
+        "count": 4,
+        "metadata": "Type:City || Latitude:40.7218 || Longitude:24.7577 || ParentId:134 || CanonicalName:golden beach || SiteType:Summer"
+      },
+      {
+        "isSelected": false,
+        "isAvailable": true,
+        "caption": "Golf del Sur",
+        "value": "27241",
+        "count": 4,
+        "metadata": "Type:City || Latitude:28.0314 || Longitude:-16.6079 || ParentId:87 || CanonicalName:golf del sur || SiteType:Summer"
+      },
+      {
+        "isSelected": false,
+        "isAvailable": true,
+        "caption": "Gournes",
+        "value": "918",
+        "count": 1,
+        "metadata": "Type:City || Latitude:35.2951 || Longitude:25.0932 || ParentId:120 || CanonicalName:gournes || SiteType:Summer"
+      },
+      {
+        "isSelected": false,
+        "isAvailable": true,
+        "caption": "Gouves",
+        "value": "917",
+        "count": 4,
+        "metadata": "Type:City || Latitude:35.3062 || Longitude:25.3137 || ParentId:120 || CanonicalName:gouves || SiteType:Summer"
+      },
+      {
+        "isSelected": false,
+        "isAvailable": true,
+        "caption": "Gouvia",
+        "value": "849",
+        "count": 10,
+        "metadata": "Type:City || Latitude:39.6537 || Longitude:19.8421 || ParentId:116 || CanonicalName:gouvia || SiteType:Summer"
+      },
+      {
+        "isSelected": false,
+        "isAvailable": true,
+        "caption": "Güvercinlik",
+        "value": "85195",
+        "count": 1,
+        "metadata": "Type:City || Latitude:37.1355 || Longitude:27.5795 || ParentId:179 || CanonicalName:guvercinlik || SiteType:Summer"
+      },
+      {
+        "isSelected": false,
+        "isAvailable": true,
+        "caption": "Hanioti",
+        "value": "133419",
+        "count": 5,
+        "metadata": "Type:City || Latitude:40.0036 || Longitude:23.572 || ParentId:130203 || CanonicalName:hanioti || SiteType:Summer"
+      },
+      {
+        "isSelected": false,
+        "isAvailable": true,
+        "caption": "Heraklion",
+        "value": "27293",
+        "count": 1,
+        "metadata": "Type:City || Latitude:35.3218 || Longitude:25.1369 || ParentId:120 || CanonicalName:heraklion || SiteType:Summer"
+      },
+      {
+        "isSelected": false,
+        "isAvailable": true,
+        "caption": "Hersonissos",
+        "value": "910",
+        "count": 11,
+        "metadata": "Type:City || Latitude:35.3168 || Longitude:25.3879 || ParentId:120 || CanonicalName:hersonissos || SiteType:Summer"
+      },
+      {
+        "isSelected": false,
+        "isAvailable": true,
+        "caption": "Hurghada",
+        "value": "391",
+        "count": 23,
+        "metadata": "Type:City || Latitude:27.2201 || Longitude:33.8307 || ParentId:67 || CanonicalName:hurghada || SiteType:Summer"
+      },
+      {
+        "isSelected": false,
+        "isAvailable": true,
+        "caption": "Ialyssos",
+        "value": "984",
+        "count": 8,
+        "metadata": "Type:City || Latitude:36.4138 || Longitude:28.1553 || ParentId:129 || CanonicalName:ialyssos || SiteType:Summer"
+      },
+      {
+        "isSelected": false,
+        "isAvailable": true,
+        "caption": "Içmeler",
+        "value": "1380",
+        "count": 2,
+        "metadata": "Type:City || Latitude:36.7993 || Longitude:28.2304 || ParentId:182 || CanonicalName:icmeler || SiteType:Summer"
+      },
+      {
+        "isSelected": false,
+        "isAvailable": true,
+        "caption": "Ipsos",
+        "value": "850",
+        "count": 1,
+        "metadata": "Type:City || Latitude:39.7089 || Longitude:19.8453 || ParentId:116 || CanonicalName:ipsos || SiteType:Summer"
+      },
+      {
+        "isSelected": false,
+        "isAvailable": true,
+        "caption": "Ireon",
+        "value": "155497",
+        "count": 3,
+        "metadata": "Type:City || Latitude:37.6651 || Longitude:26.8821 || ParentId:130 || CanonicalName:ireon || SiteType:Summer"
+      },
+      {
+        "isSelected": false,
+        "isAvailable": true,
+        "caption": "Ixia",
+        "value": "985",
+        "count": 12,
+        "metadata": "Type:City || Latitude:36.4181 || Longitude:28.172 || ParentId:129 || CanonicalName:ixia || SiteType:Summer"
+      },
+      {
+        "isSelected": false,
+        "isAvailable": true,
+        "caption": "Kalamaki",
+        "value": "1038",
+        "count": 9,
+        "metadata": "Type:City || Latitude:37.7415 || Longitude:20.8987 || ParentId:135 || CanonicalName:kalamaki || SiteType:Summer"
+      },
+      {
+        "isSelected": false,
+        "isAvailable": true,
+        "caption": "Kalathos",
+        "value": "106335",
+        "count": 1,
+        "metadata": "Type:City || Latitude:36.1243 || Longitude:28.0605 || ParentId:129 || CanonicalName:kalathos || SiteType:Summer"
+      },
+      {
+        "isSelected": false,
+        "isAvailable": true,
+        "caption": "Kalithea",
+        "value": "986",
+        "count": 4,
+        "metadata": "Type:City || Latitude:36.3396 || Longitude:28.2007 || ParentId:129 || CanonicalName:kalithea || SiteType:Summer"
+      },
+      {
+        "isSelected": false,
+        "isAvailable": true,
+        "caption": "Kalithea - Kassandra",
+        "value": "136493",
+        "count": 1,
+        "metadata": "Type:City || Latitude:40.0753 || Longitude:23.4478 || ParentId:130203 || CanonicalName:kalithea - kassandra || SiteType:Summer"
+      },
+      {
+        "isSelected": false,
+        "isAvailable": true,
+        "caption": "Kalives",
+        "value": "5081915",
+        "count": 1,
+        "metadata": "Type:City || Latitude:40.2808 || Longitude:23.4037 || ParentId:130203 || CanonicalName:kalives || SiteType:Summer"
+      },
+      {
+        "isSelected": false,
+        "isAvailable": true,
+        "caption": "Kalives",
+        "value": "126367",
+        "count": 1,
+        "metadata": "Type:City || Latitude:35.4516 || Longitude:24.1696 || ParentId:120 || CanonicalName:kalives || SiteType:Summer"
+      },
+      {
+        "isSelected": false,
+        "isAvailable": true,
+        "caption": "Kanapitsa",
+        "value": "27299",
+        "count": 1,
+        "metadata": "Type:City || Latitude:39.1381 || Longitude:23.4593 || ParentId:131 || CanonicalName:kanapitsa || SiteType:Summer"
+      },
+      {
+        "isSelected": false,
+        "isAvailable": true,
+        "caption": "Kanoni",
+        "value": "85702",
+        "count": 1,
+        "metadata": "Type:City || Latitude:39.5917 || Longitude:19.9169 || ParentId:116 || CanonicalName:kanoni || SiteType:Summer"
+      },
+      {
+        "isSelected": false,
+        "isAvailable": true,
+        "caption": "Karavostasi",
+        "value": "6178853",
+        "count": 1,
+        "metadata": "Type:City || Latitude:39.3392 || Longitude:20.289 || ParentId:125 || CanonicalName:karavostasi || SiteType:Summer"
+      },
+      {
+        "isSelected": false,
+        "isAvailable": true,
+        "caption": "Kardamena",
+        "value": "888",
+        "count": 5,
+        "metadata": "Type:City || Latitude:36.7825 || Longitude:27.1425 || ParentId:119 || CanonicalName:kardamena || SiteType:Summer"
+      },
+      {
+        "isSelected": false,
+        "isAvailable": true,
+        "caption": "Karlovassi",
+        "value": "92655",
+        "count": 2,
+        "metadata": "Type:City || Latitude:37.7987 || Longitude:25.705 || ParentId:130 || CanonicalName:karlovassi || SiteType:Summer"
+      },
+      {
+        "isSelected": false,
+        "isAvailable": true,
+        "caption": "Karpathos-Stad",
+        "value": "864",
+        "count": 16,
+        "metadata": "Type:City || Latitude:35.5037 || Longitude:27.2118 || ParentId:117 || CanonicalName:karpathos-stad || SiteType:Summer"
+      },
+      {
+        "isSelected": false,
+        "isAvailable": true,
+        "caption": "Kato Korakiana",
+        "value": "120788",
+        "count": 1,
+        "metadata": "Type:City || Latitude:39.6893 || Longitude:19.8283 || ParentId:116 || CanonicalName:kato korakiana || SiteType:Summer"
+      },
+      {
+        "isSelected": false,
+        "isAvailable": true,
+        "caption": "Kerveli",
+        "value": "37303",
+        "count": 1,
+        "metadata": "Type:City || Latitude:37.7289 || Longitude:27.0353 || ParentId:130 || CanonicalName:kerveli || SiteType:Summer"
+      },
+      {
+        "isSelected": false,
+        "isAvailable": true,
+        "caption": "Kiotari ",
+        "value": "987",
+        "count": 4,
+        "metadata": "Type:City || Latitude:36.0463 || Longitude:27.9528 || ParentId:129 || CanonicalName:kiotari  || SiteType:Summer"
+      },
+      {
+        "isSelected": false,
+        "isAvailable": true,
+        "caption": "Kipséli",
+        "value": "125136",
+        "count": 3,
+        "metadata": "Type:City || Latitude:37.8195 || Longitude:20.8253 || ParentId:135 || CanonicalName:kipseli || SiteType:Summer"
+      },
+      {
+        "isSelected": false,
+        "isAvailable": true,
+        "caption": "Kokkari",
+        "value": "999",
+        "count": 16,
+        "metadata": "Type:City || Latitude:37.7766 || Longitude:26.8926 || ParentId:130 || CanonicalName:kokkari || SiteType:Summer"
+      },
+      {
+        "isSelected": false,
+        "isAvailable": true,
+        "caption": "Kokkini Hani",
+        "value": "920",
+        "count": 1,
+        "metadata": "Type:City || Latitude:35.3296 || Longitude:25.2577 || ParentId:120 || CanonicalName:kokkini hani || SiteType:Summer"
+      },
+      {
+        "isSelected": false,
+        "isAvailable": true,
+        "caption": "Kolymbia",
+        "value": "988",
+        "count": 7,
+        "metadata": "Type:City || Latitude:36.2487 || Longitude:28.1641 || ParentId:129 || CanonicalName:kolymbia || SiteType:Summer"
+      },
+      {
+        "isSelected": false,
+        "isAvailable": true,
+        "caption": "Kontokali",
+        "value": "853",
+        "count": 1,
+        "metadata": "Type:City || Latitude:39.6419 || Longitude:19.8549 || ParentId:116 || CanonicalName:kontokali || SiteType:Summer"
+      },
+      {
+        "isSelected": false,
+        "isAvailable": true,
+        "caption": "Kos stad",
+        "value": "889",
+        "count": 31,
+        "metadata": "Type:City || Latitude:36.8936 || Longitude:27.2873 || ParentId:119 || CanonicalName:kos stad || SiteType:Summer"
+      },
+      {
+        "isSelected": false,
+        "isAvailable": true,
+        "caption": "Koukounaries",
+        "value": "1008",
+        "count": 6,
+        "metadata": "Type:City || Latitude:39.1533 || Longitude:23.405 || ParentId:131 || CanonicalName:koukounaries || SiteType:Summer"
+      },
+      {
+        "isSelected": false,
+        "isAvailable": true,
+        "caption": "Koutouloufari",
+        "value": "923",
+        "count": 2,
+        "metadata": "Type:City || Latitude:35.3067 || Longitude:25.3926 || ParentId:120 || CanonicalName:koutouloufari || SiteType:Summer"
+      },
+      {
+        "isSelected": false,
+        "isAvailable": true,
+        "caption": "Kriopigi - Kassandra",
+        "value": "131208",
+        "count": 7,
+        "metadata": "Type:City || Latitude:40.0372 || Longitude:23.4744 || ParentId:130203 || CanonicalName:kriopigi - kassandra || SiteType:Summer"
+      },
+      {
+        "isSelected": false,
+        "isAvailable": true,
+        "caption": "Kusadasi",
+        "value": "1363",
+        "count": 15,
+        "metadata": "Type:City || Latitude:37.8589 || Longitude:27.2597 || ParentId:127828 || CanonicalName:kusadasi || SiteType:Summer"
+      },
+      {
+        "isSelected": false,
+        "isAvailable": true,
+        "caption": "La Caleta",
+        "value": "6141057",
+        "count": 4,
+        "metadata": "Type:City || Latitude:28.1012 || Longitude:-16.7566 || ParentId:87 || CanonicalName:la caleta || SiteType:Summer"
+      },
+      {
+        "isSelected": false,
+        "isAvailable": true,
+        "caption": "Ladiko",
+        "value": "6245007",
+        "count": 1,
+        "metadata": "Type:City || ParentId:129 || CanonicalName:ladiko || SiteType:Summer"
+      },
+      {
+        "isSelected": false,
+        "isAvailable": true,
+        "caption": "Laganas",
+        "value": "1040",
+        "count": 23,
+        "metadata": "Type:City || Latitude:37.7276 || Longitude:20.8641 || ParentId:135 || CanonicalName:laganas || SiteType:Summer"
+      },
+      {
+        "isSelected": false,
+        "isAvailable": true,
+        "caption": "Lagos",
+        "value": "1292",
+        "count": 2,
+        "metadata": "Type:City || Latitude:37.099 || Longitude:-8.67645 || ParentId:174 || CanonicalName:lagos || SiteType:Summer"
+      },
+      {
+        "isSelected": false,
+        "isAvailable": true,
+        "caption": "Lahania",
+        "value": "990",
+        "count": 1,
+        "metadata": "Type:City || Latitude:35.9673 || Longitude:27.8625 || ParentId:129 || CanonicalName:lahania || SiteType:Summer"
+      },
+      {
+        "isSelected": false,
+        "isAvailable": true,
+        "caption": "Lardos",
+        "value": "991",
+        "count": 2,
+        "metadata": "Type:City || Latitude:36.0939 || Longitude:28.0166 || ParentId:129 || CanonicalName:lardos || SiteType:Summer"
+      },
+      {
+        "isSelected": false,
+        "isAvailable": true,
+        "caption": "Larnaca",
+        "value": "175561",
+        "count": 1,
+        "metadata": "Type:City || Latitude:34.9057 || Longitude:33.6213 || ParentId:47 || CanonicalName:larnaca || SiteType:Summer"
+      },
+      {
+        "isSelected": false,
+        "isAvailable": true,
+        "caption": "Las Palmas ",
+        "value": "459",
+        "count": 3,
+        "metadata": "Type:City || Latitude:27.9556 || Longitude:-15.5566 || ParentId:77 || CanonicalName:las palmas  || SiteType:Summer"
+      },
+      {
+        "isSelected": false,
+        "isAvailable": true,
+        "caption": "Lassi",
+        "value": "873",
+        "count": 6,
+        "metadata": "Type:City || Latitude:38.1663 || Longitude:20.4825 || ParentId:118 || CanonicalName:lassi || SiteType:Summer"
+      },
+      {
+        "isSelected": false,
+        "isAvailable": true,
+        "caption": "Lefkos",
+        "value": "101634",
+        "count": 2,
+        "metadata": "Type:City || Latitude:35.5974 || Longitude:27.0944 || ParentId:117 || CanonicalName:lefkos || SiteType:Summer"
+      },
+      {
+        "isSelected": false,
+        "isAvailable": true,
+        "caption": "Letojanni",
+        "value": "1145",
+        "count": 1,
+        "metadata": "Type:City || Latitude:37.8805 || Longitude:15.3077 || ParentId:154 || CanonicalName:letojanni || SiteType:Summer"
+      },
+      {
+        "isSelected": false,
+        "isAvailable": true,
+        "caption": "Liapades",
+        "value": "147383",
+        "count": 1,
+        "metadata": "Type:City || Latitude:39.6696 || Longitude:19.7405 || ParentId:116 || CanonicalName:liapades || SiteType:Summer"
+      },
+      {
+        "isSelected": false,
+        "isAvailable": true,
+        "caption": "Limassol",
+        "value": "312",
+        "count": 1,
+        "metadata": "Type:City || Latitude:34.6863 || Longitude:33.0373 || ParentId:47 || CanonicalName:limassol || SiteType:Summer"
+      },
+      {
+        "isSelected": false,
+        "isAvailable": true,
+        "caption": "Limenaria",
+        "value": "1023",
+        "count": 3,
+        "metadata": "Type:City || Latitude:40.6269 || Longitude:24.5761 || ParentId:134 || CanonicalName:limenaria || SiteType:Summer"
+      },
+      {
+        "isSelected": false,
+        "isAvailable": true,
+        "caption": "Limni Keri",
+        "value": "25993",
+        "count": 4,
+        "metadata": "Type:City || Latitude:37.6818 || Longitude:20.8359 || ParentId:135 || CanonicalName:limni keri || SiteType:Summer"
+      },
+      {
+        "isSelected": false,
+        "isAvailable": true,
+        "caption": "Lindos",
+        "value": "992",
+        "count": 2,
+        "metadata": "Type:City || Latitude:36.0912 || Longitude:28.0844 || ParentId:129 || CanonicalName:lindos || SiteType:Summer"
+      },
+      {
+        "isSelected": false,
+        "isAvailable": true,
+        "caption": "Lissabon",
+        "value": "1317",
+        "count": 3,
+        "metadata": "Type:City || Latitude:38.7632 || Longitude:-9.17152 || ParentId:175 || CanonicalName:lissabon || SiteType:Summer"
+      },
+      {
+        "isSelected": false,
+        "isAvailable": true,
+        "caption": "Lixouri",
+        "value": "874",
+        "count": 2,
+        "metadata": "Type:City || Latitude:38.2018 || Longitude:20.4366 || ParentId:118 || CanonicalName:lixouri || SiteType:Summer"
+      },
+      {
+        "isSelected": false,
+        "isAvailable": true,
+        "caption": "Lloret de Mar",
+        "value": "409",
+        "count": 5,
+        "metadata": "Type:City || Latitude:41.6998 || Longitude:2.84692 || ParentId:70 || CanonicalName:lloret de mar || SiteType:Summer"
+      },
+      {
+        "isSelected": false,
+        "isAvailable": true,
+        "caption": "Loggos",
+        "value": "981",
+        "count": 1,
+        "metadata": "Type:City || Latitude:39.2261 || Longitude:20.1607 || ParentId:128 || CanonicalName:loggos || SiteType:Summer"
+      },
+      {
+        "isSelected": false,
+        "isAvailable": true,
+        "caption": "Los Cristianos",
+        "value": "614",
+        "count": 5,
+        "metadata": "Type:City || Latitude:28.045 || Longitude:-16.7075 || ParentId:87 || CanonicalName:los cristianos || SiteType:Summer"
+      },
+      {
+        "isSelected": false,
+        "isAvailable": true,
+        "caption": "Lourdas",
+        "value": "875",
+        "count": 2,
+        "metadata": "Type:City || Latitude:38.1125 || Longitude:20.6358 || ParentId:118 || CanonicalName:lourdas || SiteType:Summer"
+      },
+      {
+        "isSelected": false,
+        "isAvailable": true,
+        "caption": "Lygia",
+        "value": "951",
+        "count": 2,
+        "metadata": "Type:City || Latitude:38.794 || Longitude:20.7179 || ParentId:122 || CanonicalName:lygia || SiteType:Summer"
+      },
+      {
+        "isSelected": false,
+        "isAvailable": true,
+        "caption": "Magaluf - Calvia Beach",
+        "value": "546",
+        "count": 2,
+        "metadata": "Type:City || Latitude:39.506 || Longitude:2.53069 || ParentId:83 || CanonicalName:magaluf - calvia beach || SiteType:Summer"
+      },
+      {
+        "isSelected": false,
+        "isAvailable": true,
+        "caption": "Makadi Bay",
+        "value": "392",
+        "count": 5,
+        "metadata": "Type:City || Latitude:26.9915 || Longitude:33.8973 || ParentId:67 || CanonicalName:makadi bay || SiteType:Summer"
+      },
+      {
+        "isSelected": false,
+        "isAvailable": true,
+        "caption": "Makarska",
+        "value": "108132",
+        "count": 2,
+        "metadata": "Type:City || Latitude:43.2985 || Longitude:17.0217 || ParentId:137 || CanonicalName:makarska || SiteType:Summer"
+      },
+      {
+        "isSelected": false,
+        "isAvailable": true,
+        "caption": "Málaga",
+        "value": "86595",
+        "count": 2,
+        "metadata": "Type:City || Latitude:36.7389 || Longitude:-4.42062 || ParentId:86 || CanonicalName:malaga || SiteType:Summer"
+      },
+      {
+        "isSelected": false,
+        "isAvailable": true,
+        "caption": "Malgrat de Mar",
+        "value": "410",
+        "count": 4,
+        "metadata": "Type:City || Latitude:41.6413 || Longitude:2.73182 || ParentId:70 || CanonicalName:malgrat de mar || SiteType:Summer"
+      },
+      {
+        "isSelected": false,
+        "isAvailable": true,
+        "caption": "Malia",
+        "value": "925",
+        "count": 6,
+        "metadata": "Type:City || Latitude:35.2867 || Longitude:25.4623 || ParentId:120 || CanonicalName:malia || SiteType:Summer"
+      },
+      {
+        "isSelected": false,
+        "isAvailable": true,
+        "caption": "Manilva",
+        "value": "131724",
+        "count": 1,
+        "metadata": "Type:City || Latitude:36.3767 || Longitude:-525157 || ParentId:86 || CanonicalName:manilva || SiteType:Summer"
+      },
+      {
+        "isSelected": false,
+        "isAvailable": true,
+        "caption": "Marbella",
+        "value": "591",
+        "count": 5,
+        "metadata": "Type:City || Latitude:36.5101 || Longitude:-4.88638 || ParentId:86 || CanonicalName:marbella || SiteType:Summer"
+      },
+      {
+        "isSelected": false,
+        "isAvailable": true,
+        "caption": "Marmari",
+        "value": "891",
+        "count": 1,
+        "metadata": "Type:City || Latitude:36.8779 || Longitude:27.1483 || ParentId:119 || CanonicalName:marmari || SiteType:Summer"
+      },
+      {
+        "isSelected": false,
+        "isAvailable": true,
+        "caption": "Marmaris",
+        "value": "1381",
+        "count": 30,
+        "metadata": "Type:City || Latitude:36.8542 || Longitude:28.2663 || ParentId:182 || CanonicalName:marmaris || SiteType:Summer"
+      },
+      {
+        "isSelected": false,
+        "isAvailable": true,
+        "caption": "Marmaris - Hisaronu",
+        "value": "6181542",
+        "count": 1,
+        "metadata": "Type:City || Latitude:29.1347 || Longitude:36.5721 || ParentId:182 || CanonicalName:marmaris - hisaronu || SiteType:Summer"
+      },
+      {
+        "isSelected": false,
+        "isAvailable": true,
+        "caption": "Marrakech",
+        "value": "1243",
+        "count": 5,
+        "metadata": "Type:City || ParentId:162 || CanonicalName:marrakech || SiteType:Summer"
+      },
+      {
+        "isSelected": false,
+        "isAvailable": true,
+        "caption": "Maspalomas",
+        "value": "460",
+        "count": 7,
+        "metadata": "Type:City || Latitude:27.7558 || Longitude:-15.5933 || ParentId:77 || CanonicalName:maspalomas || SiteType:Summer"
+      },
+      {
+        "isSelected": false,
+        "isAvailable": true,
+        "caption": "Mastichari",
+        "value": "892",
+        "count": 2,
+        "metadata": "Type:City || Latitude:36.849 || Longitude:27.0767 || ParentId:119 || CanonicalName:mastichari || SiteType:Summer"
+      },
+      {
+        "isSelected": false,
+        "isAvailable": true,
+        "caption": "Mega Lakos",
+        "value": "84513",
+        "count": 1,
+        "metadata": "Type:City || Latitude:38.1618 || Longitude:20.4299 || ParentId:118 || CanonicalName:mega lakos || SiteType:Summer"
+      },
+      {
+        "isSelected": false,
+        "isAvailable": true,
+        "caption": "Megali Ammos",
+        "value": "1009",
+        "count": 5,
+        "metadata": "Type:City || Latitude:39.1629 || Longitude:23.4814 || ParentId:131 || CanonicalName:megali ammos || SiteType:Summer"
+      },
+      {
+        "isSelected": false,
+        "isAvailable": true,
+        "caption": "Messonghi ",
+        "value": "174006",
+        "count": 1,
+        "metadata": "Type:City || Latitude:39.4767 || Longitude:19.9349 || ParentId:116 || CanonicalName:messonghi  || SiteType:Summer"
+      },
+      {
+        "isSelected": false,
+        "isAvailable": true,
+        "caption": "Metamorfosi",
+        "value": "131428",
+        "count": 1,
+        "metadata": "Type:City || Latitude:40.2281 || Longitude:23.6035 || ParentId:130203 || CanonicalName:metamorfosi || SiteType:Summer"
+      },
+      {
+        "isSelected": false,
+        "isAvailable": true,
+        "caption": "Monte Gordo",
+        "value": "5082777",
+        "count": 1,
+        "metadata": "Type:City || Latitude:37.1804 || Longitude:-7.4454 || ParentId:174 || CanonicalName:monte gordo || SiteType:Summer"
+      },
+      {
+        "isSelected": false,
+        "isAvailable": true,
+        "caption": "Moraira/Calpe",
+        "value": "428",
+        "count": 1,
+        "metadata": "Type:City || Latitude:38.6426 || Longitude:0.0463486 || ParentId:72 || CanonicalName:moraira/calpe || SiteType:Summer"
+      },
+      {
+        "isSelected": false,
+        "isAvailable": true,
+        "caption": "Moraitika",
+        "value": "854",
+        "count": 3,
+        "metadata": "Type:City || Latitude:39.487 || Longitude:19.9246 || ParentId:116 || CanonicalName:moraitika || SiteType:Summer"
+      },
+      {
+        "isSelected": false,
+        "isAvailable": true,
+        "caption": "Motril",
+        "value": "6134530",
+        "count": 1,
+        "metadata": "Type:City || Latitude:36.7482 || Longitude:-351897 || ParentId:86 || CanonicalName:motril || SiteType:Summer"
+      },
+      {
+        "isSelected": false,
+        "isAvailable": true,
+        "caption": "Mycali",
+        "value": "27298",
+        "count": 1,
+        "metadata": "Type:City || Latitude:37.6956 || Longitude:26.9582 || ParentId:130 || CanonicalName:mycali || SiteType:Summer"
+      },
+      {
+        "isSelected": false,
+        "isAvailable": true,
+        "caption": "Nea Moudania",
+        "value": "141514",
+        "count": 1,
+        "metadata": "Type:City || Latitude:40.241 || Longitude:23.2754 || ParentId:130203 || CanonicalName:nea moudania || SiteType:Summer"
+      },
+      {
+        "isSelected": false,
+        "isAvailable": true,
+        "caption": "Nea Potidea",
+        "value": "158483",
+        "count": 2,
+        "metadata": "Type:City || Latitude:40.194 || Longitude:23.3326 || ParentId:130203 || CanonicalName:nea potidea || SiteType:Summer"
+      },
+      {
+        "isSelected": false,
+        "isAvailable": true,
+        "caption": "Nerja",
+        "value": "595",
+        "count": 4,
+        "metadata": "Type:City || Latitude:36.7478 || Longitude:-3.87933 || ParentId:86 || CanonicalName:nerja || SiteType:Summer"
+      },
+      {
+        "isSelected": false,
+        "isAvailable": true,
+        "caption": "Nessebar",
+        "value": "295",
+        "count": 5,
+        "metadata": "Type:City || Latitude:42.6885 || Longitude:27.7075 || ParentId:42 || CanonicalName:nessebar || SiteType:Summer"
+      },
+      {
+        "isSelected": false,
+        "isAvailable": true,
+        "caption": "Nidri",
+        "value": "952",
+        "count": 15,
+        "metadata": "Type:City || Latitude:38.7107 || Longitude:20.7109 || ParentId:122 || CanonicalName:nidri || SiteType:Summer"
+      },
+      {
+        "isSelected": false,
+        "isAvailable": true,
+        "caption": "Nikiana",
+        "value": "953",
+        "count": 4,
+        "metadata": "Type:City || Latitude:38.7607 || Longitude:20.7192 || ParentId:122 || CanonicalName:nikiana || SiteType:Summer"
+      },
+      {
+        "isSelected": false,
+        "isAvailable": true,
+        "caption": "Obzor",
+        "value": "296",
+        "count": 5,
+        "metadata": "Type:City || Latitude:42.8192 || Longitude:27.8823 || ParentId:42 || CanonicalName:obzor || SiteType:Summer"
+      },
+      {
+        "isSelected": false,
+        "isAvailable": true,
+        "caption": "Olhos d'Agua",
+        "value": "1296",
+        "count": 5,
+        "metadata": "Type:City || Latitude:37.0893 || Longitude:-8.19185 || ParentId:174 || CanonicalName:olhos d'agua || SiteType:Summer"
+      },
+      {
+        "isSelected": false,
+        "isAvailable": true,
+        "caption": "Ortakent",
+        "value": "1364",
+        "count": 1,
+        "metadata": "Type:City || Latitude:37.0207 || Longitude:27.3441 || ParentId:179 || CanonicalName:ortakent || SiteType:Summer"
+      },
+      {
+        "isSelected": false,
+        "isAvailable": true,
+        "caption": "Özdere",
+        "value": "101545",
+        "count": 2,
+        "metadata": "Type:City || Latitude:38.0229 || Longitude:27.1299 || ParentId:127828 || CanonicalName:ozdere || SiteType:Summer"
+      },
+      {
+        "isSelected": false,
+        "isAvailable": true,
+        "caption": "Palma de Mallorca",
+        "value": "552",
+        "count": 3,
+        "metadata": "Type:City || Latitude:39.5779 || Longitude:2.64704 || ParentId:83 || CanonicalName:palma de mallorca || SiteType:Summer"
+      },
+      {
+        "isSelected": false,
+        "isAvailable": true,
+        "caption": "Palma Nova",
+        "value": "553",
+        "count": 6,
+        "metadata": "Type:City || Latitude:39.5246 || Longitude:2.53919 || ParentId:83 || CanonicalName:palma nova || SiteType:Summer"
+      },
+      {
+        "isSelected": false,
+        "isAvailable": true,
+        "caption": "Parga",
+        "value": "964",
+        "count": 18,
+        "metadata": "Type:City || Latitude:39.284 || Longitude:20.4016 || ParentId:125 || CanonicalName:parga || SiteType:Summer"
+      },
+      {
+        "isSelected": false,
+        "isAvailable": true,
+        "caption": "Patitiri",
+        "value": "830",
+        "count": 3,
+        "metadata": "Type:City || Latitude:39.1449 || Longitude:23.8637 || ParentId:113 || CanonicalName:patitiri || SiteType:Summer"
+      },
+      {
+        "isSelected": false,
+        "isAvailable": true,
+        "caption": "Pefki",
+        "value": "993",
+        "count": 4,
+        "metadata": "Type:City || Latitude:36.0705 || Longitude:28.0543 || ParentId:129 || CanonicalName:pefki || SiteType:Summer"
+      },
+      {
+        "isSelected": false,
+        "isAvailable": true,
+        "caption": "Pefkohori",
+        "value": "130995",
+        "count": 8,
+        "metadata": "Type:City || Latitude:39.9914 || Longitude:23.6101 || ParentId:130203 || CanonicalName:pefkohori || SiteType:Summer"
+      },
+      {
+        "isSelected": false,
+        "isAvailable": true,
+        "caption": "Perama",
+        "value": "857",
+        "count": 1,
+        "metadata": "Type:City || Latitude:39.5832 || Longitude:19.9134 || ParentId:116 || CanonicalName:perama || SiteType:Summer"
+      },
+      {
+        "isSelected": false,
+        "isAvailable": true,
+        "caption": "Perigiali",
+        "value": "955",
+        "count": 2,
+        "metadata": "Type:City || Latitude:38.7214 || Longitude:20.7223 || ParentId:122 || CanonicalName:perigiali || SiteType:Summer"
+      },
+      {
+        "isSelected": false,
+        "isAvailable": true,
+        "caption": "Pineda de Mar",
+        "value": "413",
+        "count": 5,
+        "metadata": "Type:City || Latitude:41.6251 || Longitude:2.69165 || ParentId:70 || CanonicalName:pineda de mar || SiteType:Summer"
+      },
+      {
+        "isSelected": false,
+        "isAvailable": true,
+        "caption": "Piskopiano",
+        "value": "928",
+        "count": 1,
+        "metadata": "Type:City || Latitude:35.309 || Longitude:25.3853 || ParentId:120 || CanonicalName:piskopiano || SiteType:Summer"
+      },
+      {
+        "isSelected": false,
+        "isAvailable": true,
+        "caption": "Playa Amadores",
+        "value": "27218",
+        "count": 1,
+        "metadata": "Type:City || Latitude:27.7916 || Longitude:-157239 || ParentId:77 || CanonicalName:playa amadores || SiteType:Summer"
+      },
+      {
+        "isSelected": false,
+        "isAvailable": true,
+        "caption": "Playa de la Arena",
+        "value": "604",
+        "count": 2,
+        "metadata": "Type:City || Latitude:28.2301 || Longitude:-16.8406 || ParentId:87 || CanonicalName:playa de la arena || SiteType:Summer"
+      },
+      {
+        "isSelected": false,
+        "isAvailable": true,
+        "caption": "Playa de Las Américas",
+        "value": "603",
+        "count": 14,
+        "metadata": "Type:City || Latitude:28.0601 || Longitude:-16.7281 || ParentId:87 || CanonicalName:playa de las americas || SiteType:Summer"
+      },
+      {
+        "isSelected": false,
+        "isAvailable": true,
+        "caption": "Playa de Muro",
+        "value": "548",
+        "count": 6,
+        "metadata": "Type:City || Latitude:39.7958 || Longitude:3.12316 || ParentId:83 || CanonicalName:playa de muro || SiteType:Summer"
+      },
+      {
+        "isSelected": false,
+        "isAvailable": true,
+        "caption": "Playa de Palma",
+        "value": "551",
+        "count": 14,
+        "metadata": "Type:City || Latitude:39.5228 || Longitude:2.74092 || ParentId:83 || CanonicalName:playa de palma || SiteType:Summer"
+      },
+      {
+        "isSelected": false,
+        "isAvailable": true,
+        "caption": "Playa del Ingles",
+        "value": "458",
+        "count": 14,
+        "metadata": "Type:City || Latitude:27.7583 || Longitude:-15.5774 || ParentId:77 || CanonicalName:playa del ingles || SiteType:Summer"
+      },
+      {
+        "isSelected": false,
+        "isAvailable": true,
+        "caption": "Playa Meloneras",
+        "value": "462",
+        "count": 5,
+        "metadata": "Type:City || Latitude:27.7416 || Longitude:-15.6073 || ParentId:77 || CanonicalName:playa meloneras || SiteType:Summer"
+      },
+      {
+        "isSelected": false,
+        "isAvailable": true,
+        "caption": "Playa Paraiso",
+        "value": "616",
+        "count": 1,
+        "metadata": "Type:City || Latitude:28.1222 || Longitude:-167679 || ParentId:87 || CanonicalName:playa paraiso || SiteType:Summer"
+      },
+      {
+        "isSelected": false,
+        "isAvailable": true,
+        "caption": "Playa Taurito",
+        "value": "27220",
+        "count": 1,
+        "metadata": "Type:City || Latitude:27.8147 || Longitude:-15.7528 || ParentId:77 || CanonicalName:playa taurito || SiteType:Summer"
+      },
+      {
+        "isSelected": false,
+        "isAvailable": true,
+        "caption": "Polichrono",
+        "value": "6155587",
+        "count": 3,
+        "metadata": "Type:City || Latitude:40.0162 || Longitude:23.5323 || ParentId:130203 || CanonicalName:polichrono || SiteType:Summer"
+      },
+      {
+        "isSelected": false,
+        "isAvailable": true,
+        "caption": "Pomorie",
+        "value": "297",
+        "count": 2,
+        "metadata": "Type:City || Latitude:42.5589 || Longitude:27.6402 || ParentId:42 || CanonicalName:pomorie || SiteType:Summer"
+      },
+      {
+        "isSelected": false,
+        "isAvailable": true,
+        "caption": "Port de Soller",
+        "value": "6168401",
+        "count": 1,
+        "metadata": "Type:City || ParentId:83 || CanonicalName:port de soller || SiteType:Summer"
+      },
+      {
+        "isSelected": false,
+        "isAvailable": true,
+        "caption": "Porto Koukla",
+        "value": "6145864",
+        "count": 1,
+        "metadata": "Type:City || Latitude:37.7098 || Longitude:20.8548 || ParentId:135 || CanonicalName:porto koukla || SiteType:Summer"
+      },
+      {
+        "isSelected": false,
+        "isAvailable": true,
+        "caption": "Porto Petro",
+        "value": "131056",
+        "count": 1,
+        "metadata": "Type:City || Latitude:39.3618 || Longitude:3.20858 || ParentId:83 || CanonicalName:porto petro || SiteType:Summer"
+      },
+      {
+        "isSelected": false,
+        "isAvailable": true,
+        "caption": "Praia da Rocha",
+        "value": "1302",
+        "count": 6,
+        "metadata": "Type:City || Latitude:37.1184 || Longitude:-8.54015 || ParentId:174 || CanonicalName:praia da rocha || SiteType:Summer"
+      },
+      {
+        "isSelected": false,
+        "isAvailable": true,
+        "caption": "Protaras",
+        "value": "175425",
+        "count": 12,
+        "metadata": "Type:City || Latitude:35.0136 || Longitude:34.0552 || ParentId:47 || CanonicalName:protaras || SiteType:Summer"
+      },
+      {
+        "isSelected": false,
+        "isAvailable": true,
+        "caption": "Psili Ammos",
+        "value": "1003",
+        "count": 1,
+        "metadata": "Type:City || Latitude:37.7087 || Longitude:27.0162 || ParentId:130 || CanonicalName:psili ammos || SiteType:Summer"
+      },
+      {
+        "isSelected": false,
+        "isAvailable": true,
+        "caption": "Puerto Banus",
+        "value": "95854",
+        "count": 4,
+        "metadata": "Type:City || ParentId:86 || CanonicalName:puerto banus || SiteType:Summer"
+      },
+      {
+        "isSelected": false,
+        "isAvailable": true,
+        "caption": "Puerto de la Cruz",
+        "value": "617",
+        "count": 1,
+        "metadata": "Type:City || Latitude:28.4169 || Longitude:-16.5478 || ParentId:87 || CanonicalName:puerto de la cruz || SiteType:Summer"
+      },
+      {
+        "isSelected": false,
+        "isAvailable": true,
+        "caption": "Puerto de Mogán",
+        "value": "463",
+        "count": 2,
+        "metadata": "Type:City || Latitude:27.8656 || Longitude:-157235 || ParentId:77 || CanonicalName:puerto de mogan || SiteType:Summer"
+      },
+      {
+        "isSelected": false,
+        "isAvailable": true,
+        "caption": "Puerto Rico",
+        "value": "464",
+        "count": 1,
+        "metadata": "Type:City || Latitude:27.7875 || Longitude:-15.7168 || ParentId:77 || CanonicalName:puerto rico || SiteType:Summer"
+      },
+      {
+        "isSelected": false,
+        "isAvailable": true,
+        "caption": "Puerto Santiago",
+        "value": "618",
+        "count": 1,
+        "metadata": "Type:City || Latitude:28.2353 || Longitude:-16.8402 || ParentId:87 || CanonicalName:puerto santiago || SiteType:Summer"
+      },
+      {
+        "isSelected": false,
+        "isAvailable": true,
+        "caption": "Pythagorion",
+        "value": "1001",
+        "count": 11,
+        "metadata": "Type:City || Latitude:37.6893 || Longitude:26.9416 || ParentId:130 || CanonicalName:pythagorion || SiteType:Summer"
+      },
+      {
+        "isSelected": false,
+        "isAvailable": true,
+        "caption": "Rethymnon",
+        "value": "931",
+        "count": 22,
+        "metadata": "Type:City || Latitude:35.366 || Longitude:24.4774 || ParentId:120 || CanonicalName:rethymnon || SiteType:Summer"
+      },
+      {
+        "isSelected": false,
+        "isAvailable": true,
+        "caption": "Rhodos-Stad",
+        "value": "994",
+        "count": 20,
+        "metadata": "Type:City || Latitude:36.3266 || Longitude:28.1566 || ParentId:129 || CanonicalName:rhodos-stad || SiteType:Summer"
+      },
+      {
+        "isSelected": false,
+        "isAvailable": true,
+        "caption": "Roda",
+        "value": "95991",
+        "count": 2,
+        "metadata": "Type:City || Latitude:39.7855 || Longitude:19.771 || ParentId:116 || CanonicalName:roda || SiteType:Summer"
+      },
+      {
+        "isSelected": false,
+        "isAvailable": true,
+        "caption": "Sa Coma",
+        "value": "135789",
+        "count": 1,
+        "metadata": "Type:City || Latitude:39.5776 || Longitude:3.37219 || ParentId:83 || CanonicalName:sa coma || SiteType:Summer"
+      },
+      {
+        "isSelected": false,
+        "isAvailable": true,
+        "caption": "Sahl Hasheesh",
+        "value": "394",
+        "count": 1,
+        "metadata": "Type:City || Latitude:27.1539 || Longitude:33.8386 || ParentId:67 || CanonicalName:sahl hasheesh || SiteType:Summer"
+      },
+      {
+        "isSelected": false,
+        "isAvailable": true,
+        "caption": "Samos Stad",
+        "value": "1002",
+        "count": 1,
+        "metadata": "Type:City || Latitude:37.6898 || Longitude:26.9095 || ParentId:130 || CanonicalName:samos stad || SiteType:Summer"
+      },
+      {
+        "isSelected": false,
+        "isAvailable": true,
+        "caption": "San Agustin",
+        "value": "467",
+        "count": 2,
+        "metadata": "Type:City || Latitude:27.7705 || Longitude:-15.5423 || ParentId:77 || CanonicalName:san agustin || SiteType:Summer"
+      },
+      {
+        "isSelected": false,
+        "isAvailable": true,
+        "caption": "Sani Beach",
+        "value": "141365",
+        "count": 2,
+        "metadata": "Type:City || Latitude:40.0934 || Longitude:23.311 || ParentId:130203 || CanonicalName:sani beach || SiteType:Summer"
+      },
+      {
+        "isSelected": false,
+        "isAvailable": true,
+        "caption": "Santa Cruz",
+        "value": "176266",
+        "count": 1,
+        "metadata": "Type:City || Latitude:32.6893 || Longitude:-16.7907 || ParentId:177 || CanonicalName:santa cruz || SiteType:Summer"
+      },
+      {
+        "isSelected": false,
+        "isAvailable": true,
+        "caption": "Santa Susanna",
+        "value": "417",
+        "count": 8,
+        "metadata": "Type:City || Latitude:41.6413 || Longitude:2.73182 || ParentId:70 || CanonicalName:santa susanna || SiteType:Summer"
+      },
+      {
+        "isSelected": false,
+        "isAvailable": true,
+        "caption": "Sidari",
+        "value": "27286",
+        "count": 1,
+        "metadata": "Type:City || Latitude:39.7926 || Longitude:19.707 || ParentId:116 || CanonicalName:sidari || SiteType:Summer"
+      },
+      {
+        "isSelected": false,
+        "isAvailable": true,
+        "caption": "Side",
+        "value": "1376",
+        "count": 31,
+        "metadata": "Type:City || Latitude:36.7771 || Longitude:31.3979 || ParentId:181 || CanonicalName:side || SiteType:Summer"
+      },
+      {
+        "isSelected": false,
+        "isAvailable": true,
+        "caption": "Sissi",
+        "value": "933",
+        "count": 2,
+        "metadata": "Type:City || Latitude:35.3059 || Longitude:25.5226 || ParentId:120 || CanonicalName:sissi || SiteType:Summer"
+      },
+      {
+        "isSelected": false,
+        "isAvailable": true,
+        "caption": "Sivota",
+        "value": "5081569",
+        "count": 4,
+        "metadata": "Type:City || Latitude:39.4068 || Longitude:20.2415 || ParentId:125 || CanonicalName:sivota || SiteType:Summer"
+      },
+      {
+        "isSelected": false,
+        "isAvailable": true,
+        "caption": "Skala",
+        "value": "880",
+        "count": 2,
+        "metadata": "Type:City || Latitude:38.0738 || Longitude:20.7998 || ParentId:118 || CanonicalName:skala || SiteType:Summer"
+      },
+      {
+        "isSelected": false,
+        "isAvailable": true,
+        "caption": "Skala Prinos",
+        "value": "95998",
+        "count": 1,
+        "metadata": "Type:City || Latitude:40.7594 || Longitude:24.5769 || ParentId:134 || CanonicalName:skala prinos || SiteType:Summer"
+      },
+      {
+        "isSelected": false,
+        "isAvailable": true,
+        "caption": "Skala Rachoni",
+        "value": "1027",
+        "count": 2,
+        "metadata": "Type:City || Latitude:40.779 || Longitude:24.6123 || ParentId:134 || CanonicalName:skala rachoni || SiteType:Summer"
+      },
+      {
+        "isSelected": false,
+        "isAvailable": true,
+        "caption": "Skiathos stad",
+        "value": "1010",
+        "count": 3,
+        "metadata": "Type:City || Latitude:39.1624 || Longitude:23.4871 || ParentId:131 || CanonicalName:skiathos stad || SiteType:Summer"
+      },
+      {
+        "isSelected": false,
+        "isAvailable": true,
+        "caption": "Skopelos stad",
+        "value": "1021",
+        "count": 8,
+        "metadata": "Type:City || Latitude:39.121 || Longitude:23.7281 || ParentId:133 || CanonicalName:skopelos stad || SiteType:Summer"
+      },
+      {
+        "isSelected": false,
+        "isAvailable": true,
+        "caption": "Soma Bay",
+        "value": "25684",
+        "count": 2,
+        "metadata": "Type:City || Latitude:26.8539 || Longitude:33.9957 || ParentId:67 || CanonicalName:soma bay || SiteType:Summer"
+      },
+      {
+        "isSelected": false,
+        "isAvailable": true,
+        "caption": "Stafylos",
+        "value": "6228244",
+        "count": 2,
+        "metadata": "Type:City || Latitude:39.0862 || Longitude:23.7501 || ParentId:133 || CanonicalName:stafylos || SiteType:Summer"
+      },
+      {
+        "isSelected": false,
+        "isAvailable": true,
+        "caption": "Stalis",
+        "value": "934",
+        "count": 6,
+        "metadata": "Type:City || Latitude:35.2921 || Longitude:25.4328 || ParentId:120 || CanonicalName:stalis || SiteType:Summer"
+      },
+      {
+        "isSelected": false,
+        "isAvailable": true,
+        "caption": "Sunny Beach",
+        "value": "298",
+        "count": 21,
+        "metadata": "Type:City || Latitude:42.6885 || Longitude:27.7075 || ParentId:42 || CanonicalName:sunny beach || SiteType:Summer"
+      },
+      {
+        "isSelected": false,
+        "isAvailable": true,
+        "caption": "Sveti Vlas",
+        "value": "86592",
+        "count": 4,
+        "metadata": "Type:City || Latitude:42.709 || Longitude:27.7594 || ParentId:42 || CanonicalName:sveti vlas || SiteType:Summer"
+      },
+      {
+        "isSelected": false,
+        "isAvailable": true,
+        "caption": "Svoronata",
+        "value": "881",
+        "count": 1,
+        "metadata": "Type:City || Latitude:38.1177 || Longitude:20.5216 || ParentId:118 || CanonicalName:svoronata || SiteType:Summer"
+      },
+      {
+        "isSelected": false,
+        "isAvailable": true,
+        "caption": "Taormina",
+        "value": "1155",
+        "count": 1,
+        "metadata": "Type:City || Latitude:37.8529 || Longitude:15.2957 || ParentId:154 || CanonicalName:taormina || SiteType:Summer"
+      },
+      {
+        "isSelected": false,
+        "isAvailable": true,
+        "caption": "Taormina Mare",
+        "value": "1154",
+        "count": 3,
+        "metadata": "Type:City || Latitude:37.8529 || Longitude:15.2957 || ParentId:154 || CanonicalName:taormina mare || SiteType:Summer"
+      },
+      {
+        "isSelected": false,
+        "isAvailable": true,
+        "caption": "Tavira",
+        "value": "1306",
+        "count": 5,
+        "metadata": "Type:City || Latitude:37.1238 || Longitude:-7.64757 || ParentId:174 || CanonicalName:tavira || SiteType:Summer"
+      },
+      {
+        "isSelected": false,
+        "isAvailable": true,
+        "caption": "Thassos-Stad",
+        "value": "1030",
+        "count": 4,
+        "metadata": "Type:City || Latitude:40.7763 || Longitude:24.7067 || ParentId:134 || CanonicalName:thassos-stad || SiteType:Summer"
+      },
+      {
+        "isSelected": false,
+        "isAvailable": true,
+        "caption": "Thessaloniki",
+        "value": "132352",
+        "count": 2,
+        "metadata": "Type:City || Latitude:40.6253 || Longitude:22.9497 || ParentId:130203 || CanonicalName:thessaloniki || SiteType:Summer"
+      },
+      {
+        "isSelected": false,
+        "isAvailable": true,
+        "caption": "Tigaki",
+        "value": "895",
+        "count": 6,
+        "metadata": "Type:City || Latitude:36.8842 || Longitude:27.1833 || ParentId:119 || CanonicalName:tigaki || SiteType:Summer"
+      },
+      {
+        "isSelected": false,
+        "isAvailable": true,
+        "caption": "Torremolinos",
+        "value": "600",
+        "count": 11,
+        "metadata": "Type:City || Latitude:36.6222 || Longitude:-4.49856 || ParentId:86 || CanonicalName:torremolinos || SiteType:Summer"
+      },
+      {
+        "isSelected": false,
+        "isAvailable": true,
+        "caption": "Torrox Costa",
+        "value": "103452",
+        "count": 2,
+        "metadata": "Type:City || Latitude:36.7329 || Longitude:-394564 || ParentId:86 || CanonicalName:torrox costa || SiteType:Summer"
+      },
+      {
+        "isSelected": false,
+        "isAvailable": true,
+        "caption": "Trapezaki",
+        "value": "882",
+        "count": 1,
+        "metadata": "Type:City || Latitude:38.1254 || Longitude:20.6086 || ParentId:118 || CanonicalName:trapezaki || SiteType:Summer"
+      },
+      {
+        "isSelected": false,
+        "isAvailable": true,
+        "caption": "Tsilivi",
+        "value": "1043",
+        "count": 19,
+        "metadata": "Type:City || Latitude:37.8136 || Longitude:20.8745 || ParentId:135 || CanonicalName:tsilivi || SiteType:Summer"
+      },
+      {
+        "isSelected": false,
+        "isAvailable": true,
+        "caption": "Vassilias",
+        "value": "1012",
+        "count": 2,
+        "metadata": "Type:City || Latitude:39.1526 || Longitude:23.4681 || ParentId:131 || CanonicalName:vassilias || SiteType:Summer"
+      },
+      {
+        "isSelected": false,
+        "isAvailable": true,
+        "caption": "Vilamoura",
+        "value": "1308",
+        "count": 2,
+        "metadata": "Type:City || Latitude:37.0687 || Longitude:-8.10516 || ParentId:174 || CanonicalName:vilamoura || SiteType:Summer"
+      },
+      {
+        "isSelected": false,
+        "isAvailable": true,
+        "caption": "Vodice",
+        "value": "1052",
+        "count": 3,
+        "metadata": "Type:City || Latitude:43.7628 || Longitude:15.7761 || ParentId:137 || CanonicalName:vodice || SiteType:Summer"
+      },
+      {
+        "isSelected": false,
+        "isAvailable": true,
+        "caption": "Votsalakia",
+        "value": "134081",
+        "count": 7,
+        "metadata": "Type:City || Latitude:37.7098 || Longitude:26.674 || ParentId:130 || CanonicalName:votsalakia || SiteType:Summer"
+      },
+      {
+        "isSelected": false,
+        "isAvailable": true,
+        "caption": "Vrachos",
+        "value": "6141434",
+        "count": 1,
+        "metadata": "Type:City || Latitude:39.1734 || Longitude:20.5509 || ParentId:125 || CanonicalName:vrachos || SiteType:Summer"
+      },
+      {
+        "isSelected": false,
+        "isAvailable": true,
+        "caption": "Xi Beach",
+        "value": "885",
+        "count": 1,
+        "metadata": "Type:City || Latitude:38.1608 || Longitude:20.4158 || ParentId:118 || CanonicalName:xi beach || SiteType:Summer"
+      },
+      {
+        "isSelected": false,
+        "isAvailable": true,
+        "caption": "Zakynthos stad",
+        "value": "132323",
+        "count": 1,
+        "metadata": "Type:City || Latitude:37.7894 || Longitude:20.8989 || ParentId:135 || CanonicalName:zakynthos stad || SiteType:Summer"
+      }
+    ]
+

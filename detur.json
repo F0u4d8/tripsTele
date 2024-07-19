@@ -1,0 +1,237 @@
+[
+  {
+    "operator": "detur",
+    "departure_city": "372",
+    "country": "Albanien",
+    "destinations": [{ "destination": "Albania", "code": "281" }]
+  },
+  {
+    "operator": "detur",
+    "departure_city": "372",
+    "country": "Cypern",
+    "destinations": [{ "destination": "Cypern", "code": "18" }]
+  },
+  {
+    "operator": "detur",
+    "departure_city": "372",
+    "country": "Egypten",
+    "destinations": [{ "destination": "Hurghada", "code": "277" }]
+  },
+  {
+    "operator": "detur",
+    "departure_city": "372",
+    "country": "Grekland",
+    "destinations": [
+      { "destination": "Kreta chania", "code": "176" },
+      { "destination": "Kreta Reguljär", "code": "10" },
+      { "destination": "Rhodos Charter", "code": "173" },
+      { "destination": "Rhodos Reguljär", "code": "11" },
+      { "destination": "Zakynthos", "code": "245" }
+    ]
+  },
+  {
+    "operator": "detur",
+    "departure_city": "372",
+    "country": "Marocko",
+    "destinations": [{ "destination": "Agadir", "code": "84" }]
+  },
+  {
+    "operator": "detur",
+    "departure_city": "372",
+    "country": "Spanien",
+    "destinations": [
+      { "destination": "Costa del Sol", "code": "183" },
+      { "destination": "Gran Canaria", "code": "44" },
+      { "destination": "Mallorca  - Charter", "code": "160" },
+      { "destination": "Mallorca  - Reguljär", "code": "17" },
+      { "destination": "Teneriffa", "code": "7" }
+    ]
+  },
+  {
+    "operator": "detur",
+    "departure_city": "372",
+    "country": "Storbritannien",
+    "destinations": [{ "destination": "Stansted", "code": "27" }]
+  },
+  {
+    "operator": "detur",
+    "departure_city": "372",
+    "country": "Tunisien",
+    "destinations": [{ "destination": "Tunis", "code": "22" }]
+  },
+  {
+    "operator": "detur",
+    "departure_city": "372",
+    "country": "Turkiet",
+    "destinations": [
+      { "destination": "Alanya - Kemer", "code": "169" },
+      { "destination": "Kemer - Side - Alanya", "code": "19" }
+    ]
+  },
+  {
+    "operator": "detur",
+    "departure_city": "341",
+    "country": "Egypten",
+    "destinations": [{ "destination": "Hurghada", "code": "279" }]
+  },
+  {
+    "operator": "detur",
+    "departure_city": "341",
+    "country": "Turkiet",
+    "destinations": [{ "destination": "Antalya", "code": "232" }]
+  },
+  {
+    "operator": "detur",
+    "departure_city": "373",
+    "country": "Egypten",
+    "destinations": [{ "destination": "Hurghada", "code": "270" }]
+  },
+  {
+    "operator": "detur",
+    "departure_city": "373",
+    "country": "Polen",
+    "destinations": [{ "destination": "Gdansk", "code": "34" }]
+  },
+  {
+    "operator": "detur",
+    "departure_city": "373",
+    "country": "Spanien",
+    "destinations": [
+      { "destination": "Costa del Sol", "code": "139" },
+      { "destination": "Gran Canaria", "code": "39" },
+      { "destination": "Mallorca ", "code": "8" },
+      { "destination": "Teneriffa", "code": "271" }
+    ]
+  },
+  {
+    "operator": "detur",
+    "departure_city": "373",
+    "country": "Storbritannien",
+    "destinations": [{ "destination": "Stansted", "code": "28" }]
+  },
+  {
+    "operator": "detur",
+    "departure_city": "373",
+    "country": "Turkiet",
+    "destinations": [{ "destination": "Kemer - Side - Alanya", "code": "1" }]
+  },
+  {
+    "operator": "detur",
+    "departure_city": "1351",
+    "country": "Cypern",
+    "destinations": [{ "destination": "Cypern", "code": "264" }]
+  },
+  {
+    "operator": "detur",
+    "departure_city": "1351",
+    "country": "Grekland",
+    "destinations": [{ "destination": "Rhodos", "code": "267" }]
+  },
+  {
+    "operator": "detur",
+    "departure_city": "377",
+    "country": "Polen",
+    "destinations": [{ "destination": "Gdansk", "code": "30" }]
+  },
+  {
+    "operator": "detur",
+    "departure_city": "377",
+    "country": "Albanien",
+    "destinations": [{ "destination": "Durres-området", "code": "35" }]
+  },
+  {
+    "operator": "detur",
+    "departure_city": "1929",
+    "country": "Turkiet",
+    "destinations": [{ "destination": "Kemer - Side - Alanya", "code": "233" }]
+  },
+  {
+    "operator": "detur",
+    "departure_city": "374",
+    "country": "Cypern",
+    "destinations": [{ "destination": "Cypern", "code": "15" }]
+  },
+  {
+    "operator": "detur",
+    "departure_city": "374",
+    "country": "Egypten",
+    "destinations": [{ "destination": "Hurghada", "code": "275" }]
+  },
+  {
+    "operator": "detur",
+    "departure_city": "374",
+    "country": "Grekland",
+    "destinations": [
+      { "destination": "Kreta Chania", "code": "20" },
+      { "destination": "Rhodos", "code": "21" }
+    ]
+  },
+  {
+    "operator": "detur",
+    "departure_city": "374",
+    "country": "Marocko",
+    "destinations": [{ "destination": "Agadir", "code": "81" }]
+  },
+  {
+    "operator": "detur",
+    "departure_city": "374",
+    "country": "Polen",
+    "destinations": [{ "destination": "Gdansk", "code": "177" }]
+  },
+  {
+    "operator": "detur",
+    "departure_city": "374",
+    "country": "Spanien",
+    "destinations": [
+      { "destination": "Costa del Sol", "code": "180" },
+      { "destination": "Gran Canaria", "code": "43" },
+      { "destination": "Mallorca - Charter ", "code": "172" },
+      { "destination": "Mallorca - Reguljär ", "code": "42" },
+      { "destination": "Teneriffa", "code": "40" }
+    ]
+  },
+
+  {
+    "operator": "detur",
+    "departure_city": "374",
+    "country": "Tunisien",
+    "destinations": [{ "destination": "Tunis", "code": "16" }]
+  },
+  {
+    "operator": "detur",
+    "departure_city": "374",
+    "country": "Turkiet",
+    "destinations": [
+      { "destination": "Alanya - Kemer", "code": "156" },
+      { "destination": "Kemer - Side - Alanya", "code": "14" }
+    ]
+  },
+  {
+    "operator": "detur",
+    "departure_city": "3526",
+    "country": "Albanien",
+    "destinations": [{ "destination": "Durres-området", "code": "36" }]
+  },
+  {
+    "operator": "detur",
+    "departure_city": "3526",
+    "country": "Spanien",
+    "destinations": [{ "destination": "Costa del So", "code": "152" }]
+  },
+  {
+    "operator": "detur",
+    "departure_city": "2870",
+    "country": "Cypern",
+    "destinations": [{ "destination": "Cypern", "code": "94" }]
+  },
+  {
+    "operator": "detur",
+    "departure_city": "2870",
+    "country": "Grekland",
+    "destinations": [
+      { "destination": "Kreta Chania", "code": "263" },
+      { "destination": "Rhodos", "code": "117" },
+      { "destination": "Zakynthos", "code": "239" }
+    ]
+  }
+]

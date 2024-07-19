@@ -1,0 +1,1373 @@
+site,destination,code
+solresor,Durres Riviera,203
+solresor,Burgas,260
+solresor,Cypern,43
+solresor,Hurghada,44
+solresor,Dubai,200
+solresor,Atens riviera,45
+solresor,Halkidiki,231
+solresor,Korfu,50
+solresor,Kos,46
+solresor,Kreta Chaniakusten,47
+solresor,Kreta Heraklion,255
+solresor,Rhodos,48
+solresor,Samos,311
+solresor,Zakynthos,51
+solresor,Amalfikusten,58
+solresor,Kalabrien,60
+solresor,Sardinien (norra),253
+solresor,Sicilien (nordvästra),254
+solresor,Sicilien (sydöstra),52
+solresor,Kap Verde,243
+solresor,Dubrovnik,186
+solresor,Istrien,185
+solresor,Makarska,184
+solresor,Maldiverna,65
+solresor,Malta,66
+solresor,Mauritius,68
+solresor,Cancun,251
+solresor,Playa Del Carmen,250
+solresor,Budvanska Rivieran,71
+solresor,Algarve,73
+solresor,Azorerna,247
+solresor,Cascais,75
+solresor,Lissabon,74
+solresor,Madeira,77
+solresor,Seychellerna,78
+solresor,Barcelona,223
+solresor,Costa Blanca,211
+solresor,Costa de Almeria,214
+solresor,Costa del Sol,205
+solresor,Costa Tropical,458
+solresor,Fuerteventura,37
+solresor,Gran Canaria,36
+solresor,Ibiza,41
+solresor,La Palma,40
+solresor,Mallorca,35
+solresor,Teneriffa,30
+solresor,Ao Nang,83
+solresor,Khao Lak,259
+solresor,Koh Lanta,190
+solresor,Phuket,84
+solresor,Alanya,85
+solresor,Antalya,88
+solresor,Belek,87
+solresor,Kusadasi,573
+solresor,Side,86
+norwegianholidays,Tirana,TIA
+norwegianholidays,Sarajevo,SJJ
+norwegianholidays,Burgas,BOJ
+norwegianholidays,Varna,VAR
+norwegianholidays,Larnaca,LCA
+norwegianholidays,Aalborg,AAL
+norwegianholidays,Billund,BLL
+norwegianholidays,Köpenhamn,CPH
+norwegianholidays,Cairo,CAI
+norwegianholidays,Hurghada,HRG
+norwegianholidays,Tallinn,TLL
+norwegianholidays,Helsingfors,HEL
+norwegianholidays,Rovaniemi,RVN
+norwegianholidays,Bordeaux,BOD
+norwegianholidays,Korsika,BIA
+norwegianholidays,Lyon,LYS
+norwegianholidays,Montpellier,MPL
+norwegianholidays,Nice,NCE
+norwegianholidays,Paris,PAR
+norwegianholidays,Toulouse,TLS
+norwegianholidays,Dubai,DXB
+norwegianholidays,Aten,ATH
+norwegianholidays,Chania (Kreta),CHQ
+norwegianholidays,Heraklion (Kreta),HER
+norwegianholidays,Korfu,CFU
+norwegianholidays,Lefkas,PVK
+norwegianholidays,Rhodos,RHO
+norwegianholidays,Santorini,JTR
+norwegianholidays,Thessaloniki,SKG
+norwegianholidays,Dublin,DUB
+norwegianholidays,Reykjavik,REK
+norwegianholidays,Amalfikusten,AMF
+norwegianholidays,Bari,BRI
+norwegianholidays,Bologna,BLQ
+norwegianholidays,Catania (Sicilien),CTA
+norwegianholidays,Milano,MIL
+norwegianholidays,Neapel,NAP
+norwegianholidays,Palermo (Sicilien),PMO
+norwegianholidays,Pisa,PSA
+norwegianholidays,Rimini,RMI
+norwegianholidays,Rom,ROM
+norwegianholidays,Sardinien,OLB
+norwegianholidays,Venedig,VCE
+norwegianholidays,Verona,VRN
+norwegianholidays,Prishtina,PRN
+norwegianholidays,Dubrovnik,DBV
+norwegianholidays,Pula - Istria,PUY
+norwegianholidays,Split-regionen,SPU
+norwegianholidays,Zadar,ZAD
+norwegianholidays,Riga,RIX
+norwegianholidays,Palanga/Klaipedia,PLQ
+norwegianholidays,Vilnius,VNO
+norwegianholidays,Gozo,GZO
+norwegianholidays,Malta,MLA
+norwegianholidays,Agadir,AGA
+norwegianholidays,Marrakech,RAK
+norwegianholidays,Tivat,TIV
+norwegianholidays,Amsterdam,AMS
+norwegianholidays,Skopje,SKP
+norwegianholidays,Bergen,BGO
+norwegianholidays,Bodø,BOO
+norwegianholidays,Harstad-Narvik,EVE
+norwegianholidays,Haugesund,HAU
+norwegianholidays,Kristiansand,KRS
+norwegianholidays,Longyearbyen - Svalbard,LYR
+norwegianholidays,Molde,MOL
+norwegianholidays,Oslo,OSL
+norwegianholidays,Stavanger,SVG
+norwegianholidays,Tromsö,TOS
+norwegianholidays,Trondheim,TRD
+norwegianholidays,Ålesund,AES
+norwegianholidays,Gdansk,GDN
+norwegianholidays,Krakow,KRK
+norwegianholidays,Stettin,SZZ
+norwegianholidays,Warszawa,WAW
+norwegianholidays,Wroclaw,WRO
+norwegianholidays,Algarve,FAO
+norwegianholidays,Lissabon,LIS
+norwegianholidays,Madeira,FNC
+norwegianholidays,Porto,OPO
+norwegianholidays,Bukarest,OTP
+norwegianholidays,Basel-Mullhouse,BSL
+norwegianholidays,Genève,GVA
+norwegianholidays,Belgrad,BEG
+norwegianholidays,Ljubljana,LJU
+norwegianholidays,Barcelona,BCN
+norwegianholidays,Bilbao,BIO
+norwegianholidays,Costa Blanca,ALC
+norwegianholidays,Costa Brava,GRO
+norwegianholidays,Costa Dorada,SIT
+norwegianholidays,Costa del Sol,AGP
+norwegianholidays,Gran Canaria,LPA
+norwegianholidays,Lanzarote,ACE
+norwegianholidays,Madrid,MAD
+norwegianholidays,Mallorca,PMI
+norwegianholidays,Teneriffa,TFS
+norwegianholidays,Valencia,VLC
+norwegianholidays,Edinburgh,EDI
+norwegianholidays,London,LON
+norwegianholidays,Manchester,MAN
+norwegianholidays,Gotland,VBY
+norwegianholidays,Luleå,LLA
+norwegianholidays,Malmö,MMX
+norwegianholidays,Stockholm,STO
+norwegianholidays,Umeå,UME
+norwegianholidays,Prag,PRG
+norwegianholidays,Istanbul,IST
+norwegianholidays,Södra Turkiet,AYT
+norwegianholidays,Berlin,BER
+norwegianholidays,Düsseldorf,DUS
+norwegianholidays,Hamburg,HAM
+norwegianholidays,München,MUC
+norwegianholidays,Budapest,BUD
+norwegianholidays,Wien,VIE
+mixxtravel,Antalya,357
+mixxtravel,Alanya,360
+mixxtravel,Antalya Stad,361
+mixxtravel,Belek,362
+mixxtravel,Kemer,363
+mixxtravel,Side,364
+mixxtravel,Turkiets västkust,367
+mixxtravel,Kusadasi,380
+mixxtravel,Antalya Flygplats,358
+mixxtravel,Cesme,382
+mixxtravel,Izmir Stad,384
+mixxtravel,Kreta,387
+mixxtravel,Chania,390
+mixxtravel,Rethtmnon,391
+mixxtravel,Heraklion,392
+mixxtravel,Rhodos,394
+mixxtravel,Rhodos Stad,396
+mixxtravel,Ixia,397
+mixxtravel,Ialyssos,398
+mixxtravel,Theologos,399
+mixxtravel,Faliraki,400
+mixxtravel,Kallithea,401
+mixxtravel,Afandou,402
+mixxtravel,Kolymbia,403
+mixxtravel,Lindos,404
+mixxtravel,Lardos,405
+mixxtravel,Kremasti,406
+mixxtravel,Mallorca,409
+mixxtravel,Palma de Mallorca Flygplats,410
+mixxtravel,Alicante,607
+mixxtravel,Izmir Flygplats,370
+mixxtravel,Chania Flygplats,388
+
+
+ving,Antigua,82463
+ving,Antigua,82422
+ving,Aruba,11
+ving,Aruba,427
+ving,Barbados,82461
+ving,Barbados,82421
+ving,Belgien,14
+ving,Belgian Grand Prix,102457
+ving,Bryssel,347
+ving,Brasilien,15
+ving,Buzios,94521
+ving,Rio de Janeiro,428
+ving,Bulgarien,16
+ving,Alla resmål,-1
+ving,Burgas,57927
+ving,Nessebar,241
+ving,Sunny Beach,270
+ving,Varna,57728
+ving,Albena,224
+ving,Balchik,345
+ving,Golden Sands,327
+ving,Curaçao,51
+ving,Curaçao,454
+ving,Cypern,22
+ving,Cypern,89600
+ving,Ayia Napa,319
+ving,Larnaca,282
+ving,Limassol,3836
+ving,Protaras/Fig Tree Bay,208
+ving,Danmark,24
+ving,Köpenhamn,272
+ving,Dominikanska republiken,8376
+ving,Puerto Plata,104228
+ving,Cabarete,8378
+ving,Playa Dorada,8380
+ving,Punta Cana-området,104453
+ving,Bayahibe,37639
+ving,Punta Cana,8375
+ving,Egypten,25
+ving,Hurghada-området,34001
+ving,El Gouna,251
+ving,Hurghada,311
+ving,Makadi Bay,297
+ving,Estland,26
+ving,Tallinn,440
+ving,Finland,149438
+ving,Helsingfors,362
+ving,Frankrike,29
+ving,Franska rivieran,104
+ving,Antibes/Juan les Pins,76224
+ving,Cannes,212
+ving,Monaco Grand Prix,102439
+ving,Nice,300
+ving,Korsika,104692
+ving,Bastia,104693
+ving,Calvi,104709
+ving,L'Île-Rousse,104710
+ving,Paris,136
+ving,Disneyland® Paris,336
+ving,Paris,309
+ving,Förenade Arabemiraten,72
+ving,Abu Dhabi,60826
+ving,Abu Dhabi Grand Prix,102435
+ving,Ajman,86049
+ving,Dubai,26211
+ving,Bur Dubai,72516
+ving,Deira,72514
+ving,Downtown Dubai,72515
+ving,Dubai Parks and Resorts,124037
+ving,Jebel Ali,72517
+ving,Jumeirah Beach,598
+ving,La Mer Beach,158616
+ving,Fujairah,67539
+ving,Ras Al Khaimah,67540
+ving,Gambia,30
+ving,Gambia,264
+ving,Grekland,32
+ving,Alonissos,71242
+ving,Aten,220
+ving,Halkidiki,89166
+ving,Kalymnos,113
+ving,Kantouni,39188
+ving,Mirties & Massouri,334
+ving,Pothia,90062
+ving,Korfu,83879
+ving,Acharavi,102670
+ving,Agios Gordios,83880
+ving,Dassia,83892
+ving,Gouvia,83900
+ving,Korfu stad,83910
+ving,Moraitika,102659
+ving,Kos,115
+ving,Kardamena,31084
+ving,Kos stad,188
+ving,Marmari & Tigaki,103994
+ving,Kreta,99
+ving,Agios Nikolaos,310
+ving,"Chaniakusten, Agia Marina",183
+ving,"Chaniakusten, Chania stad",276
+ving,"Chaniakusten, Gerani",238
+ving,"Chaniakusten, Kato Daratso & Agii Apostoli",280
+ving,"Chaniakusten, Kato Stalos & Kalamaki",584
+ving,"Chaniakusten, Kolimbari",371
+ving,"Chaniakusten, Maleme",481
+ving,"Chaniakusten, Platanias",288
+ving,Elounda,84811
+ving,Georgioupolis,107100
+ving,"Hersonissos, Stalis & Malia",221
+ving,Ierapetra,80165
+ving,Makrigialos,275
+ving,Rethymnon,177
+ving,Lefkas,119
+ving,Nidri,248
+ving,Parga-området,135
+ving,Ammoudia,101956
+ving,Paleros,232
+ving,Parga,263
+ving,Sivota,101686
+ving,Rhodos,139
+ving,Faliraki,211
+ving,Kallithea,267
+ving,Kiotari,34330
+ving,Kolymbia,61953
+ving,Lardos,33261
+ving,Lindos,167
+ving,Rhodos stad,203
+ving,Rhodos västkust,339
+ving,Samos,141
+ving,Pythagorion,157623
+ving,Santorini,83678
+ving,Imerovigli,83679
+ving,Kamari,83680
+ving,Oia,83681
+ving,Thira,83682
+ving,Skiathos,145
+ving,Megali Ammos,234
+ving,Skiathos stad,108262
+ving,Västra Skiathos,108261
+ving,Skopelos,312
+ving,Symi,71221
+ving,Telendos,13344
+ving,Thassos,77371
+ving,Golden Beach,77450
+ving,Limenaria,77375
+ving,Potos,77379
+ving,Skala Prinos,88160
+ving,Skala Rachoni,77993
+ving,Thassos stad,77372
+ving,Thessaloniki,89164
+ving,Tilos,152
+ving,Livadia,261
+ving,Indien,35
+ving,Goa,37560
+ving,Norra Goa,3815
+ving,Södra Goa,3817
+ving,Indonesien,36
+ving,Bali,85
+ving,Candidasa,26779
+ving,Kuta Beach,317
+ving,Lovina Beach,26780
+ving,Nusa Dua,214
+ving,Sanur,271
+ving,Seminyak,112219
+ving,Ubud,528
+ving,Irland,37
+ving,Dublin,161
+ving,Island,34
+ving,Reykjavik,394
+ving,Italien,39
+ving,Amalfikusten,81
+ving,Capri,335
+ving,Positano,421
+ving,Sorrento,291
+ving,Bergamo,591
+ving,Bologna,530
+ving,Italian Grand Prix,102458
+ving,Milano,383
+ving,Neapel,57587
+ving,Rom,269
+ving,Sardinien,142
+ving,Costa Smeralda,83161
+ving,Sicilien,144
+ving,Cefalu,65489
+ving,Giardini - Naxos,65494
+ving,Taormina,65476
+ving,Toscana,103475
+ving,Florens,355
+ving,Forte dei Marmi,103476
+ving,Pisa,76659
+ving,Viareggio,103479
+ving,Venedig,404
+ving,Verona,406
+ving,Jamaica,42720
+ving,Jamaica,127342
+ving,Lucea,67180
+ving,Montego Bay,42721
+ving,Negril,42722
+ving,Japan,109752
+ving,Tokyo,109753
+ving,Kanada,18
+ving,Toronto,402
+ving,Kap Verde,54906
+ving,Kap Verde,54907
+ving,Kina,19
+ving,Hong Kong,109757
+ving,Kroatien,20
+ving,Brac,90617
+ving,Supetar,90619
+ving,Dubrovnik-området,80098
+ving,Cavtat,80099
+ving,Dubrovnik,352
+ving,Hvar,80063
+ving,Hvar stad,39968
+ving,Istrien,75703
+ving,Opatija,75704
+ving,Porec,75724
+ving,Rovinj,75805
+ving,Vrsar,75827
+ving,Makarska rivieran,80056
+ving,Baska Voda,80057
+ving,Brela,80058
+ving,Gradac,80059
+ving,Makarska,80060
+ving,Tucepi,80062
+ving,Split-området,80035
+ving,Split,217
+ving,Trogir,80660
+ving,Kuba,21
+ving,Havanna,478
+ving,Varadero,237
+ving,Lettland,42
+ving,Riga,439
+ving,Litauen,43
+ving,Vilnius,82965
+ving,Malaysia,45
+ving,Langkawi,209
+ving,Malackahalvön,126
+ving,Kuala Lumpur,219
+ving,Penang,205
+ving,Maldiverna,46
+ving,Maldiverna,329
+ving,Malta,15007
+ving,Malta,60693
+ving,Gozo,108199
+ving,Mellieha,74064
+ving,St Julian’s & Sliema,34867
+ving,St Paul's Bay,42985
+ving,Marocko,49
+ving,Agadir,322
+ving,Marrakech,333
+ving,Taghazout,78624
+ving,Mauritius,47
+ving,Mauritius,171
+ving,Mexiko,48
+ving,Akumal,55422
+ving,Cancún,37917
+ving,Playa del Carmen,324
+ving,Tulum,495
+ving,Nederländerna,50
+ving,Amsterdam,340
+ving,Dutch Grand Prix,150630
+ving,Norge,53
+ving,Oslo,388
+ving,Polen,82967
+ving,Gdansk,98306
+ving,Krakow,82968
+ving,Sopot,147547
+ving,Warszawa,82974
+ving,Wroclaw,168941
+ving,Portugal,56
+ving,Algarve,78607
+ving,Albufeira,293
+ving,Armacao De Pera,169394
+ving,Praia da Rocha,389
+ving,Tavira,169393
+ving,Vilamoura,328
+ving,Lissabon-området,122
+ving,Costa da Caparica,475
+ving,Estoril/Cascais,290
+ving,Lissabon,315
+ving,Sesimbra,399
+ving,Madeira,124
+ving,Canico,78586
+ving,Funchal,174
+ving,Ponta do Sol,78600
+ving,Ribeira Brava,105967
+ving,Santo da Serra,56625
+ving,Porto,423
+ving,Puerto Rico,89200
+ving,Puerto Rico,95768
+ving,Qatar,57
+ving,Doha,542
+ving,Qatar Grand Prix,171663
+ving,Seychellerna,59083
+ving,Seychellerna,63790
+ving,Denis Island,63791
+ving,La Digue,59047
+ving,Mahé,59084
+ving,Praslin,63792
+ving,Silhouette Island,171577
+ving,Singapore,61
+ving,Singapore,170
+ving,Spanien,65
+ving,Barcelona,343
+ving,Bilbao,429
+ving,Costa Blanca,95
+ving,Albir,252
+ving,Alicante,477
+ving,Benidorm,273
+ving,Valencia,265
+ving,Costa Brava,97990
+ving,Calella,98300
+ving,Lloret de Mar,98301
+ving,Santa Susanna,98302
+ving,Costa del Sol,97
+ving,Benalmadena,414
+ving,Fuengirola,250
+ving,Malaga,549
+ving,Marbella,338
+ving,Nerja,107965
+ving,Torremolinos,204
+ving,Costa Dorada,14233
+ving,Salou,182
+ving,Sitges,301
+ving,Fuerteventura,105
+ving,Corralejo,235
+ving,Costa Calma,36268
+ving,El Cotillo,136908
+ving,Jandía,278
+ving,Gran Canaria,108
+ving,Arguineguín,260
+ving,Costa Meloneras,194
+ving,Las Palmas,279
+ving,Maspalomas,244
+ving,Playa de Amadores,246
+ving,Playa de Taurito,64425
+ving,Playa del Cura,296
+ving,Playa del Inglés,227
+ving,Puerto de Mogán,391
+ving,Puerto Rico,325
+ving,San Agustin,302
+ving,Ibiza,110
+ving,Ibiza stad,67807
+ving,Playa d´en Bossa,67808
+ving,San Antonio,67815
+ving,Santa Eulalia,67821
+ving,La Gomera,294
+ving,Madrid,321
+ving,Mallorca,127
+ving,Alcudia,169
+ving,Cala Bona,441
+ving,Cala d'Or,284
+ving,Cala Mayor,176
+ving,Cala Mesquida,308
+ving,Cala Millor,198
+ving,Cala Ratjada,193
+ving,Cala San Vicente,617
+ving,Can Picafort,262
+ving,Illetas,163
+ving,Palma Nova/Magaluf,289
+ving,Palma stad,313
+ving,Playa de Palma,259
+ving,Port de Andratx,12909
+ving,Puerto de Sóller,247
+ving,Puerto Pollensa,285
+ving,Sa Coma,81884
+ving,Santa Ponsa,256
+ving,Valldemossa,58674
+ving,Menorca,129
+ving,Cala Galdana,103081
+ving,Cala'n Bosch,103083
+ving,Ciutadella,103115
+ving,Santo Tomas,103129
+ving,Son Bou,103131
+ving,Spanish Grand Prix,102437
+ving,Teneriffa,149
+ving,Los Cristianos,180
+ving,Los Gigantes,323
+ving,Playa de las Américas,201
+ving,Playa Paraiso,11911
+ving,Puerto de la Cruz,226
+ving,San Miguel de Abona,3823
+ving,Santa Cruz,43014
+ving,Sri Lanka,15182
+ving,Sri Lanka,66302
+ving,Bentota,37536
+ving,Beruwela,16146
+ving,Galle,14999
+ving,Hikkaduwa,15000
+ving,Marawila,42331
+ving,Negombo,15001
+ving,St Martin/St Maarten,55031
+ving,St Martin / St Maarten,73874
+ving,Grand Case,73355
+ving,Maho Beach,72475
+ving,Orient Bay,72471
+ving,Oyster Pond/Dawn Beach,72511
+ving,Philipsburg,73354
+ving,Storbritannien,73
+ving,British Grand Prix,109385
+ving,Edinburgh,353
+ving,Glasgow,356
+ving,London,316
+ving,Sverige,66
+ving,Jukkasjärvi,150511
+ving,Sydafrika,63
+ving,Kapstaden,12721
+ving,Tanzania,3818
+ving,Zanzibar,3819
+ving,Thailand,69
+ving,Centrala Thailand,93
+ving,Bangkok,195
+ving,Cha-Am,411
+ving,Hua Hin,363
+ving,Koh Chang,420
+ving,Koh Phangan,14324
+ving,Koh Samet,239
+ving,Koh Samui,305
+ving,Koh Tao,14325
+ving,Rayong Beach,277
+ving,Krabi,116
+ving,Ao Nang,292
+ving,Klong Muang,605
+ving,Koh Lanta,377
+ving,Koh Mook,610
+ving,Koh Ngai,369
+ving,Phi Phi Island,12723
+ving,Railay Beach,12724
+ving,Norra Thailand,132
+ving,Chiang Mai,449
+ving,Chiang Rai,450
+ving,Phuket,137
+ving,Bangtao Beach,162
+ving,Cape Panwa Beach,101473
+ving,Kamala Beach,318
+ving,Karon Beach,257
+ving,Kata Beach,233
+ving,Khao Lak,331
+ving,Koh Yao Noi,101463
+ving,Nai Yang Beach,583
+ving,Patong Beach,173
+ving,Surin Beach,409
+ving,Tjeckien,23
+ving,Prag,337
+ving,Turkiet,71
+ving,Antalya-området,32383
+ving,Alanya,299
+ving,Antalya,172
+ving,Belek,307
+ving,Side,215
+ving,Istanbul,287
+ving,Tyskland,31
+ving,Berlin,202
+ving,Hamburg,524
+ving,München,419
+ving,Ungern,33
+ving,Budapest,207
+ving,Hungarian Grand Prix,102506
+ving,USA,74
+ving,Florida,102
+ving,Clearwater Beach,613
+ving,Fort Lauderdale,330
+ving,Fort Myers Beach,612
+ving,Key West,4070
+ving,Miami Beach,4045
+ving,Orlando,326
+ving,Hawaii,109
+ving,Honolulu,359
+ving,Maui,385
+ving,Västra USA,156
+ving,Las Vegas,378
+ving,Los Angeles,456
+ving,San Diego,455
+ving,San Francisco,395
+ving,Östra USA,100
+ving,Boston,457
+ving,Chicago,349
+ving,New Orleans,386
+ving,New York,166
+ving,Washington D.C,408
+ving,Vietnam,76
+ving,Hanoi,360
+ving,Nha Trang,190
+ving,Phan Thiet,390
+ving,Phu Quoc,483
+ving,Saigon,268
+ving,Österrike,13
+ving,Austrian Grand Prix,103979
+ving,Wien,199
+ving,Turkiet,7
+ving,Sitia,164085
+ving,Lesbos,121
+ving,Anaxos,185
+ving,Eftalou,35665
+ving,Molivos,314
+ving,Petra,168
+ving,Plomari,12972
+ving,Skala Eressos,171949
+ving,Skala Kallonis,71866
+tui,Durres riviera,G-000001136
+tui,Vlora,G-000001535
+tui,Aruba,G-000000907
+tui,Barbados,G-000000904
+tui,Rio de Janeiro,G-000001583
+tui,Nessebar,G-000000286
+tui,Obzor,G-000000287
+tui,Pomorie,G-000001180
+tui,Sunny Beach,G-000000289
+tui,Curacao,G-000001124
+tui,Curacao,G-000001124
+tui,Bayahibe,G-000000920
+tui,Cabarete,G-000136
+tui,Juan Dolio,G-000001561
+tui,Las Terrenas,G-000137
+tui,Playa Dorada,G-000158
+tui,Punta Cana,G-000000781
+tui,Samana,G-000139
+tui,Santo Domingo,G-000001560
+tui,Abu Dhabi,G-000000180
+tui,Ajman,G-000000628
+tui,Bur Dubai,G-000000181
+tui,Deira,G-000001279
+tui,Downtown Dubai,G-000000216
+tui,Dubai Jumeirah Beach,G-000127
+tui,Ras al Khaimah,G-000131
+tui,Tallinn,G-000001260
+tui,Franska alperna,G-000001335
+tui,Franska rivieran,G-000000529
+tui,Korsika,G-000001067
+tui,Lyon,G-000001482
+tui,Paris,G-000000802
+tui,Aten,G-000000823
+tui,Halkidiki,G-000000841
+tui,Karpathos,G-000001389
+tui,Korfu,G-000000291
+tui,Kos,G-000000295
+tui,Kreta,G-000000292
+tui,Lefkas,G-000001588
+tui,Mykonos,G-000001000
+tui,Parga-området,G-000001587
+tui,Peloponnesos,G-000001524
+tui,Rhodos,G-000000293
+tui,Samos,G-000000294
+tui,Santorini,G-000000816
+tui,Thessaloniki,G-000001548
+tui,Zakynthos,G-000000653
+tui,Bali,G-000000453
+tui,Dublin,G-000000886
+tui,Reykjavik,G-000001227
+tui,Amalfikusten,G-000000730
+tui,Bari,G-000000994
+tui,Bologna,G-000001476
+tui,Bologna,G-000001478
+tui,Florens,G-000000844
+tui,Gardasjön,G-000001474
+tui,Italienska alperna,G-000001308
+tui,Lecce,G-000001409
+tui,Milano,G-000001360
+tui,Pisa,G-000001402
+tui,Polignano a Mare,G-000001410
+tui,Rimini,G-000001404
+tui,Rom,G-000000785
+tui,Sardinien,G-000000239
+tui,Sicilien,G-000000238
+tui,Venedig,G-000000840
+tui,Verona,G-000000869
+tui,Montego Bay,G-000000165
+tui,Negril,G-000000166
+tui,Ocho Rios,G-000000168
+tui,Dubrovnik-kusten,G-000000533
+tui,Istrien,G-000000704
+tui,Makarska-rivieran,G-000000562
+tui,Zadar-kusten,G-000001140
+tui,Havanna,G-000001091
+tui,Varadero,G-000001356
+tui,Riga,G-000001226
+tui,Ari Atoll,G-000067
+tui,Baa Atoll,G-000001178
+tui,Dhaalu Atoll,G-000001108
+tui,Gaafu Alifu Atoll,G-000000699
+tui,Haa Dhaalu Atoll,G-000000903
+tui,Lhaviyani Atoll,G-000068
+tui,Meemu Atoll,G-000000723
+tui,Noonu Atoll,G-000069
+tui,North Male Atoll,G-000070
+tui,Raa Atoll,G-000071
+tui,South Male Atoll,G-000074
+tui,Gozo,G-000000931
+tui,Mellieha,G-000000946
+tui,Sliema,G-000000377
+tui,St Julian's,G-000000378
+tui,St Paul's Bay,G-000000947
+tui,Agadir,G-000000695
+tui,Marrakech,G-000000697
+tui,Bel Ombre,G-000001176
+tui,Belle Mare,G-000000491
+tui,Blue Bay,G-000000495
+tui,Flic en Flac,G-000000595
+tui,Grand Baie,G-000000492
+tui,Le Morne,G-000000617
+tui,Akumal,G-000084
+tui,Cancun,G-000086
+tui,El Cuyo,G-000001408
+tui,Isla de Holbox,G-000087
+tui,Playa Mujeres,G-000093
+tui,Playa del Carmen,G-000091
+tui,Puerto Aventuras,G-000097
+tui,Puerto Morelos,G-000099
+tui,Tulum,G-000101
+tui,Becici,G-000000787
+tui,Bijela,G-000001305
+tui,Budva,G-000000755
+tui,Igalo,G-000001302
+tui,Kotor,G-000000899
+tui,Kumbor,G-000001304
+tui,Lustica Bay,G-000001055
+tui,Petrovac,G-000000756
+tui,Sveti Stefan,G-000000806
+tui,Ulcinj,G-000001125
+tui,Amsterdam,G-000000888
+tui,Gdansk,G-000001224
+tui,Krakow,G-000000872
+tui,Sopot,G-000001536
+tui,Algarve,G-000000415
+tui,Lissabon,G-000000874
+tui,Madeira,G-000000413
+tui,Porto,G-000001480
+tui,Doha,G-000001133
+tui,Mahé,G-000000908
+tui,Praslin,G-000000909
+tui,Singapore,G-000000805
+tui,Barcelona,G-000000703
+tui,Bilbao,G-000001371
+tui,Costa Blanca,G-000000758
+tui,Costa Dorada,G-000000738
+tui,Costa de la Luz,G-000000737
+tui,Costa del Sol,G-000000736
+tui,Formentera,G-000000381
+tui,Ibiza,G-000000236
+tui,Kanarieöarna,G-000000939
+tui,Lloret de Mar,G-000001442
+tui,Madrid,G-000000848
+tui,Mallorca,G-000000234
+tui,Menorca,G-000000235
+tui,San Sebastián,G-000001578
+tui,Sevilla,G-000001492
+tui,Ahungalla,G-000000676
+tui,Bentota,G-000000677
+tui,Hikkaduwa,G-000000678
+tui,Waikal,G-000000683
+tui,Edinburgh,G-000001373
+tui,London,G-000000772
+tui,Manchester,G-000000773
+tui,Västra Kapprovinsen,G-000001281
+tui,Zanzibar,G-000000202
+tui,Ao Nang (Krabi),G-000030
+tui,Bangkok,G-000008
+tui,Hua Hin,G-000009
+tui,Khanom,G-000031
+tui,Khao Lak,G-000024
+tui,Klong Muang Beach (Krabi),G-000032
+tui,Koh Chang,G-000010
+tui,Koh Hai,G-000000204
+tui,Koh Kood,G-000011
+tui,Koh Kradan,G-000033
+tui,Koh Lanta,G-000034
+tui,Koh Samet,G-000013
+tui,Koh Samui,G-000014
+tui,Phuket,G-000007
+tui,Prag,G-000000774
+tui,Antalyakusten,G-000000243
+tui,Bodrumkusten,G-000000245
+tui,Istanbul,G-000001131
+tui,Marmariskusten,G-000000244
+tui,Berlin,G-000000775
+tui,München,G-000001364
+tui,Boston,G-000000895
+tui,Chicago,G-000001419
+tui,Florida,G-000000220
+tui,Las Vegas,G-000000891
+tui,Los Angeles,G-000000896
+tui,New Orleans,G-000001153
+tui,New York,G-000000761
+tui,San Diego,G-000001414
+tui,San Francisco,G-000000897
+tui,Washington DC,G-000001439
+tui,Budapest,G-000001362
+tui,Da Nang,G-000001129
+tui,Phu Quoc,G-000000651
+tui,Innsbruck (österrikiska alperna),G-000001325
+tui,Salzburg (österrikiska alperna),G-000001324
+tui,Wien,G-000001368
+apollo,Frankrike,FR
+apollo,Spanien,ES
+apollo,Norge,NO
+apollo,Finland,FI
+apollo,Danmark,DK
+apollo,Turkiet,TR
+apollo,Malta,MT
+apollo,Estland,EE
+apollo,Lettland,LV
+apollo,Tjeckien,CZ
+apollo,Ungern,HU
+apollo,Irland,IE
+apollo,Italien,IT
+apollo,Polen,PL
+apollo,Storbritannien,GB
+apollo,Tyskland,DE
+apollo,Holland,NL
+apollo,Österrike,AT
+apollo,Grekland,GR
+apollo,Montenegro,ME
+apollo,Kroatien,HR
+apollo,Portugal,PT
+apollo,Cypern,CY
+apollo,Bulgarien,BG
+apollo,Albanien,AL
+apollo,Georgien,GE
+apollo,Sydafrika,ZA
+apollo,Tunisien,TN
+apollo,Mauritius,MU
+apollo,Egypten,EG
+apollo,Marocko,MA
+apollo,Gambia,GM
+apollo,Japan,JP
+apollo,Singapore,SG
+apollo,Förenade Arabemiraten,AE
+apollo,Maldiverna,MV
+apollo,Thailand,TH
+apollo,Malaysia,MY
+apollo,Indonesien,ID
+apollo,Sri Lanka,LK
+apollo,Vietnam,VN
+apollo,USA,US
+apollo,Mexiko,MX
+apollo,Aruba,AW
+apollo,St Martin,MF
+apollo,Curaçao,CW
+apollo,Dominikanska republiken,DO
+apollo,Costa Rica,CR
+apollo,Kanada,CA
+apollo,Brasilien,BR
+apollo,Nice,@taciid519677
+apollo,Paris,@taciid513906
+apollo,Korsika,@taciid521514
+apollo,Madrid,@taciid332420
+apollo,Barcelona,@taciid513862
+apollo,Alicante,@taciid521667
+apollo,Ibiza,@taciid322580
+apollo,Costa del Sol,@taciid546599
+apollo,Torremolinos & Benalmadena,@taciid169244
+apollo,Fuengirola,@taciid1245864
+apollo,"Nerja, Benamocarra & Viñuela",@taciid168160
+apollo,Marbella & Puerto Banus,@taciid545880
+apollo,Estepona,@taciid169565
+apollo,Malaga,@taciid521564
+apollo,Mallorca,@taciid321608
+apollo,Playa de Palma,@taciid321617
+apollo,Alcudia & Playa de Muro,@taciid321609
+apollo,Cala Millor,@taciid512223
+apollo,Palma,@taciid549764
+apollo,Palma Nova & Magaluf,@taciid321610
+apollo,Puerto de Sóller,@taciid321611
+apollo,Fuerteventura,@taciid321784
+apollo,Corralejo,@taciid321802
+apollo,El Cotillo & Majanicho,@taciid159249
+apollo,Playitas Resort,@taciid321878
+apollo,Caleta de Fuste,@taciid321785
+apollo,Costa Calma & Tarajalejo,@taciid321835
+apollo,Jandia,@taciid321855
+apollo,Menorca,@taciid1254845
+apollo,Gran Canaria,@taciid321891
+apollo,Puerto de Mogán & Taurito,@taciid322148
+apollo,San Agustín,@taciid321892
+apollo,Las Palmas,@taciid322174
+apollo,Maspalomas,@taciid322240
+apollo,Playa del Inglés,@taciid321920
+apollo,Puerto Rico,@taciid322047
+apollo,Salobre,@taciid498549
+apollo,Meloneras,@taciid322208
+apollo,Playa de Amadores,@taciid155466
+apollo,Arguineguin/Patalavaca,@taciid427425
+apollo,Bahia Feliz,@taciid1250143
+apollo,Lanzarote,@taciid322258
+apollo,Playa Blanca,@taciid322259
+apollo,Puerto del Carmen,@taciid322299
+apollo,Teneriffa,@taciid322386
+apollo,Los Gigantes & Playa de la Arena,@taciid322504
+apollo,Puerto de la Cruz,@taciid322471
+apollo,Playa de las Americas,@taciid322409
+apollo,Los Cristianos,@taciid322387
+apollo,Callao Salvaje,@taciid322525
+apollo,Golf del Sur,@taciid1210977
+apollo,Kryssningar,@taciid1624399
+apollo,La Gomera,@taciid322542
+apollo,Oslo,@taciid157768
+apollo,Helsingfors,@taciid227200
+apollo,Köpenhamn,@taciid513908
+apollo,Istanbul,@taciid513909
+apollo,Alanya,@taciid325507
+apollo,Side,@taciid325611
+apollo,Erciyes,@taciid1623999
+apollo,Malta,@taciid326100
+apollo,Tallinn,@taciid526281
+apollo,Riga,@taciid520923
+apollo,Prag,@taciid513907
+apollo,Budapest,@taciid513911
+apollo,Dublin,@taciid513912
+apollo,Rom,@taciid325703
+apollo,Venedig,@taciid325858
+apollo,Florens,@taciid1254840
+apollo,Pisa,@taciid521830
+apollo,Sardinien,@taciid522329
+apollo,Sicilien,@taciid325901
+apollo,Alagna,@taciid1624075
+apollo,Gdansk,@taciid524211
+apollo,Krakow,@taciid522119
+apollo,Warszawa,@taciid149827
+apollo,London,@taciid326982
+apollo,Edinburgh,@taciid521612
+apollo,Manchester,@taciid522330
+apollo,Berlin,@taciid513861
+apollo,Amsterdam,@taciid513910
+apollo,Wien,@taciid522116
+apollo,Skiathos,@taciid324314
+apollo,Vasilias,@taciid324320
+apollo,Skiathos Stad,@taciid324315
+apollo,Koukounaries,@taciid324318
+apollo,Megali Ammos,@taciid324316
+apollo,Achladies,@taciid324317
+apollo,Kanapitsa & Kalamaki,@taciid534987
+apollo,Aselinos,@taciid540881
+apollo,Kolios,@taciid167760
+apollo,Agia Paraskevi,@taciid150835
+apollo,Troulos,@taciid409336
+apollo,Kreta,@taciid322629
+apollo,Anissaras,@taciid323026
+apollo,Rethymnon kust,@taciid330246
+apollo,Agios Nikolaos,@taciid322700
+apollo,Maleme,@taciid323357
+apollo,Kato Stalos,@taciid323051
+apollo,Georgioupolis,@taciid322752
+apollo,Platanias,@taciid323115
+apollo,Almyrida & Kalives,@taciid322674
+apollo,Kastelli,@taciid323324
+apollo,"Hersonissos, Stalis & Malia",@taciid322808
+apollo,Rethymnon stad,@taciid322852
+apollo,Agia Marina,@taciid323214
+apollo,Gerani,@taciid524570
+apollo,Kolymbari,@taciid323374
+apollo,Gouves,@taciid543584
+apollo,Agii Apostoli,@taciid323268
+apollo,Chania Stad,@taciid323270
+apollo,Ierapetra & Koutsounari,@taciid539138
+apollo,Plakias,@taciid336695
+apollo,Kokkini Chani,@taciid416439
+apollo,Paleochora,@taciid323009
+apollo,Topptursåkning,@taciid1623927
+apollo,Rhodos,@taciid324146
+apollo,"Ialyssos, Ixia & Kremasti",@taciid324148
+apollo,Kalithea & Faliraki,@taciid324150
+apollo,Rhodos stad,@taciid324149
+apollo,Afandou & Kolymbia,@taciid333070
+apollo,Lindos,@taciid324152
+apollo,"Lardos, Kiotari & Pefkos",@taciid324147
+apollo,Sivota,@taciid445347
+apollo,Lefkas,@taciid324067
+apollo,Parga,@taciid446334
+apollo,Mytikas,@taciid1253171
+apollo,Zakynthos,@taciid323532
+apollo,Argassi,@taciid323533
+apollo,Tsilivi,@taciid323537
+apollo,Kalamaki,@taciid323535
+apollo,Laganas,@taciid323534
+apollo,Tragaki,@taciid543177
+apollo,Alykes,@taciid161150
+apollo,Thessaloniki,@taciid519643
+apollo,Tilos,@taciid325082
+apollo,Kos,@taciid324946
+apollo,Kardamena,@taciid324951
+apollo,Kos stad,@taciid324947
+apollo,Tigaki & Marmari,@taciid324948
+apollo,Psalidi,@taciid324950
+apollo,Lambi,@taciid324949
+apollo,Kalymnos,@taciid325037
+apollo,Leros,@taciid343690
+apollo,Ioannina,@taciid1092792
+apollo,Kanali,@taciid532801
+apollo,Alonissos,@taciid434368
+apollo,Samos,@taciid323443
+apollo,Kokkari,@taciid323447
+apollo,Pythagorion,@taciid323445
+apollo,Votsalakia,@taciid323446
+apollo,Karlovassi,@taciid435152
+apollo,Samos stad,@taciid323444
+apollo,Santorini,@taciid324523
+apollo,Perivolos & Perissa,@taciid324526
+apollo,Kamari & Agia Paraskevi,@taciid324524
+apollo,Caldera,@taciid324525
+apollo,Vlychada,@taciid324527
+apollo,Naxos,@taciid324710
+apollo,Naxos stad,@taciid324712
+apollo,"Agia Anna, Agios Prokopios, Plaka Beach & Mikri Vigla",@taciid324711
+apollo,Paros,@taciid324482
+apollo,Skopelos,@taciid324428
+apollo,Karpathos,@taciid323676
+apollo,Amopi,@taciid323677
+apollo,Karpathos stad,@taciid323678
+apollo,Lefkos,@taciid323679
+apollo,Lesvos,@taciid323881
+apollo,Plomari,@taciid536235
+apollo,Molyvos,@taciid149197
+apollo,Petra,@taciid149198
+apollo,Mitilini,@taciid1205276
+apollo,Limnos,@taciid156930
+apollo,Zagoria,@taciid544426
+apollo,Ammoudia,@taciid445345
+apollo,Ios,@taciid324687
+apollo,Paleros,@taciid158699
+apollo,Antiparos,@taciid325111
+apollo,Symi,@taciid324417
+apollo,Perdika & Karavostasi,@taciid1247757
+apollo,Preveza,@taciid1091155
+apollo,Korfu,@taciid323780
+apollo,Agios Georgios,@taciid323781
+apollo,Agios Ioannis Peristeron,@taciid545901
+apollo,Moraitika,@taciid323785
+apollo,Gouvia & Kontokali,@taciid323782
+apollo,Benitses,@taciid148173
+apollo,Sidari,@taciid1206447
+apollo,Barbati,@taciid166013
+apollo,Korfu Stad,@taciid323787
+apollo,Dassia & Ipsos,@taciid1204246
+apollo,Paxos,@taciid525547
+apollo,Pserimos,@taciid537945
+apollo,Vrachos,@taciid544992
+apollo,Parnassos,@taciid1624106
+apollo,Aten,@taciid324793
+apollo,Tivat,@taciid225148
+apollo,Dubrovnik,@taciid326701
+apollo,Pula,@taciid526339
+apollo,Brac,@taciid326739
+apollo,Split & Podstrana,@taciid326764
+apollo,Makarska rivieran,@taciid326564
+apollo,Tucepi,@taciid326567
+apollo,Makarska,@taciid326565
+apollo,Podgora,@taciid326566
+apollo,Baska Voda,@taciid531928
+apollo,Skärgårdskryssningar,@taciid551594
+apollo,Omis riviera,@taciid1246873
+apollo,Estoril och Cascais,@taciid170698
+apollo,Ericeira,@taciid170700
+apollo,Vila Real de Santo Antonio,@taciid171221
+apollo,Lissabon,@taciid321577
+apollo,Paco de Arcos,@taciid170699
+apollo,Tavira,@taciid169918
+apollo,Albufeira,@taciid321511
+apollo,Madeira,@taciid321456
+apollo,Funchal,@taciid321457
+apollo,Ayia Napa,@taciid325982
+apollo,Paphos,@taciid1091010
+apollo,Fig Tree Bay,@taciid325984
+apollo,Limassol,@taciid1101978
+apollo,Coral Bay,@taciid1251041
+apollo,Nessebar,@taciid326515
+apollo,Sunny Beach,@taciid326307
+apollo,Sveti Vlas,@taciid326449
+apollo,Sozopol,@taciid326483
+apollo,Bansko,@taciid1624000
+apollo,Durres Riviera,@taciid542217
+apollo,Saranda,@taciid503963
+apollo,Gudauri,@taciid1623725
+apollo,Kapstaden,@taciid546305
+apollo,Hammamet,@taciid1206435
+apollo,Sousse,@taciid1206436
+apollo,Mauritius,@taciid328927
+apollo,Hurghada,@taciid328437
+apollo,Sahl Hasheesh,@taciid349569
+apollo,Abu Soma,@taciid495163
+apollo,Marrakech,@taciid328688
+apollo,Agadir,@taciid328649
+apollo,Gambia,@taciid1257250
+apollo,Tokyo,@taciid545881
+apollo,Hokkaido,@taciid1623920
+apollo,Singapore,@taciid328098
+apollo,Ajman,@taciid523725
+apollo,Dubai,@taciid328106
+apollo,Jumeirah Beach & Dubai Marina,@taciid523733
+apollo,Dubai Palm Jumeirah,@taciid523734
+apollo,Dubai Jebel Ali,@taciid523768
+apollo,Bur Dubai & Deira,@taciid523728
+apollo,Dubai Al Barsha & Barsha Heights,@taciid546188
+apollo,Ras Al Khaimah,@taciid328141
+apollo,Maldiverna,@taciid328144
+apollo,Phuket,@taciid327030
+apollo,Kata Beach,@taciid327035
+apollo,Kata Noi Beach,@taciid327034
+apollo,Nai Harn Beach,@taciid532008
+apollo,Thalang,@taciid506960
+apollo,Karon Beach,@taciid327031
+apollo,Bangtao Beach,@taciid330796
+apollo,Hua Hin,@taciid537077
+apollo,Khao Lak,@taciid327262
+apollo,Bangkok,@taciid327172
+apollo,Koh Lanta,@taciid327318
+apollo,Krabi,@taciid327427
+apollo,Ao Nang,@taciid327429
+apollo,Klong Muang,@taciid327431
+apollo,Langkawi,@taciid328174
+apollo,Bali,@taciid327902
+apollo,Kosgoda,@taciid1252435
+apollo,Galle,@taciid425339
+apollo,Negombo,@taciid327854
+apollo,Hikkaduwa,@taciid327855
+apollo,Saigon,@taciid327756
+apollo,Phan Thiet,@taciid327785
+apollo,New York,@taciid329416
+apollo,Fort Lauderdale,@taciid513916
+apollo,Miami,@taciid513914
+apollo,Washington,@taciid347944
+apollo,San Francisco,@taciid513918
+apollo,Los Angeles,@taciid513917
+apollo,Boston,@taciid544908
+apollo,Chicago,@taciid513913
+apollo,Cancun,@taciid329227
+apollo,Costa Mujeres,@taciid1252343
+apollo,Aruba,@taciid533581
+apollo,St Martin,@taciid225149
+apollo,Curaçao,@taciid332671
+apollo,Punta Cana,@taciid329041
+apollo,Costa Rica,@taciid1253327
+apollo,British Columbia,@taciid1624016
+apollo,Rio de Janeiro,@taciid329534
+apollo,Sitia,@taciid538906
+apollo,Makrigialos/Koutsouras,@taciid539210
+apollo,Palekastro,@taciid539222
+tripx,Tirana,TIA
+tripx,Bryssel,BRU
+tripx,Burgas,BOJ
+tripx,Sofia,SOF
+tripx,Varna,VAR
+tripx,Larnaca,LCA
+tripx,Aalborg,AAL
+tripx,Billund,BLL
+tripx,Köpenhamn,CPH
+tripx,Cairo,CAI
+tripx,Hurghada,HRG
+tripx,Sharm El Sheikh,SSH
+tripx,Tallinn,TLL
+tripx,Helsingfors,HEL
+tripx,Åbo,TKU
+tripx,Bordeaux,BOD
+tripx,Korsika,BIA
+tripx,Lyon,LYS
+tripx,Marseille,MRS
+tripx,Montpellier,MPL
+tripx,Nice,NCE
+tripx,Paris,PAR
+tripx,Toulouse,TLS
+tripx,Abu Dhabi,AUH
+tripx,Dubai,DXB
+tripx,Kutaisi,KUT
+tripx,Tbilisi,TBS
+tripx,Aten,ATH
+tripx,Chania (Kreta),CHQ
+tripx,Heraklion (Kreta),HER
+tripx,Korfu,CFU
+tripx,Lefkas,PVK
+tripx,Mykonos,JMK
+tripx,Rhodos,RHO
+tripx,Santorini,JTR
+tripx,Thessaloniki,SKG
+tripx,Dublin,DUB
+tripx,Reykjavik,REK
+tripx,Amalfikusten,AMF
+tripx,Bari,BRI
+tripx,Bologna,BLQ
+tripx,Catania (Sicilien),CTA
+tripx,Florens,FLR
+tripx,Milano,MIL
+tripx,Neapel,NAP
+tripx,Palermo (Sicilien),PMO
+tripx,Pisa,PSA
+tripx,Rimini,RMI
+tripx,Rom,ROM
+tripx,Sardinien,OLB
+tripx,Venedig,VCE
+tripx,Verona,VRN
+tripx,Dubrovnik,DBV
+tripx,Pula - Istria,PUY
+tripx,Split-regionen,SPU
+tripx,Zadar,ZAD
+tripx,Riga,RIX
+tripx,Kaunas,KUN
+tripx,Palanga/Klaipedia,PLQ
+tripx,Vilnius,VNO
+tripx,Gozo,GZO
+tripx,Malta,MLA
+tripx,Agadir,AGA
+tripx,Marrakech,RAK
+tripx,Tivat,TIV
+tripx,Amsterdam,AMS
+tripx,Skopje,SKP
+tripx,Bergen,BGO
+tripx,Longyearbyen - Svalbard,LYR
+tripx,Oslo,OSL
+tripx,Stavanger,SVG
+tripx,Tromsö,TOS
+tripx,Trondheim,TRD
+tripx,Gdansk,GDN
+tripx,Krakow,KRK
+tripx,Poznan,POZ
+tripx,Warszawa,WAW
+tripx,Wroclaw,WRO
+tripx,Algarve,FAO
+tripx,Lissabon,LIS
+tripx,Madeira,FNC
+tripx,Porto,OPO
+tripx,Qatar,DOH
+tripx,Bukarest,OTP
+tripx,Basel-Mullhouse,BSL
+tripx,Genève,GVA
+tripx,Zürich,ZRH
+tripx,Belgrad,BEG
+tripx,Ljubljana,LJU
+tripx,Barcelona,BCN
+tripx,Bilbao,BIO
+tripx,Costa Blanca,ALC
+tripx,Costa Brava,GRO
+tripx,Costa Dorada,SIT
+tripx,Costa del Sol,AGP
+tripx,Gran Canaria,LPA
+tripx,Lanzarote,ACE
+tripx,Madrid,MAD
+tripx,Mallorca,PMI
+tripx,Teneriffa,TFS
+tripx,Valencia,VLC
+tripx,Birmingham,BHX
+tripx,Edinburgh,EDI
+tripx,Liverpool,LPL
+tripx,London,LON
+tripx,Manchester,MAN
+tripx,Göteborg,GOT
+tripx,Luleå,LLA
+tripx,Malmö,MMX
+tripx,Stockholm,STO
+tripx,Umeå,UME
+tripx,Bangkok,BKK
+tripx,Södra Thailand,HKT
+tripx,Prag,PRG
+tripx,Bodrum,BJV
+tripx,Istanbul,IST
+tripx,Norra Cypern,ECN
+tripx,Södra Turkiet,AYT
+tripx,Berlin,BER
+tripx,Düsseldorf,DUS
+tripx,Frankfurt,FRA
+tripx,Hamburg,HAM
+tripx,München,MUC
+tripx,Fort Lauderdale,FLL
+tripx,Miami,MIA
+tripx,New York,NYC
+tripx,Budapest,BUD
+tripx,Wien,VIE
+almena,Hammamet,Hammamet
+almena,Sousse,Sousse
+almena,Hurghada,Hurghada
+almena,Djerba,Djerba
+almena,Sharm El Sheikh,Sharm El Sheikh
